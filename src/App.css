@@ -6,26 +6,33 @@ html, body, #root {
   width: 100%;
 }
 
-/* Hoofdcontainer */
 .App {
   display: flex;
   flex-direction: column;
   min-height: 100%;
 }
 
-/* Kleurblok bovenaan */
+/* Bovenste kleurblok */
 .TopBlock {
-  width: 100%;               /* volledige breedte */
-  height: 10vh;              /* 10% van viewport hoogte */
+  width: 100%;
+  height: 10vh; /* 10% van de viewport hoogte */
   background-color: rgba(0,170,162,0.3);
 }
 
-/* Content onder kleurblok, gecentreerd */
+/* Onderste kleurblok */
+.BottomBlock {
+  width: 100%;
+  height: 10vh; /* 10% van de viewport hoogte */
+  background-color: rgba(20,27,31,0.3); /* pas alfa aan naar wens */
+  margin-top: auto; /* duwt het naar de onderkant */
+}
+
+/* Content tussen boven- en onderblok, gecentreerd */
 .AppContent {
-  flex: 1;                   /* vult de rest van de pagina */
+  flex: 1;
   display: flex;
   flex-direction: column;
-  justify-content: center;    /* verticaal centreren */
-  align-items: center;        /* horizontaal centreren */
+  justify-content: center; /* verticaal centreren */
+  align-items: center;     /* horizontaal centreren */
   text-align: center;
 }
