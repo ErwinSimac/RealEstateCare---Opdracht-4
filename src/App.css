@@ -1,15 +1,22 @@
 .App {
   min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 
 .TopBlock {
-  height: 10vh;
+  width: 100%;           /* Volledige breedte */
+  height: 10vh;          /* 10% van de hoogte */
   background-color: rgba(0,170,162,0.3);
 }
 
 .AppContent {
+  flex: 1;               /* Neemt de rest van de hoogte */
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* Verticaal centreren */
+  align-items: center;     /* Horizontaal centreren */
   text-align: center;
-  padding-top: 20px;
 }
 
 .AppContent h1 {
