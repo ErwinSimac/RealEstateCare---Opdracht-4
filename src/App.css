@@ -42,8 +42,8 @@ html, body, #root {
   height: 10vh; /* 10% van de hoogte */
   background: linear-gradient(
     to right,
-    rgba(71,94,108,0),  /* links */
-    rgba(20,27,31,0)    /* rechts */
+    rgba(71,94,108,3),  /* links */
+    rgba(20,27,31,0,3)    /* rechts */
   );
   margin-top: auto; /* plakt onderaan */
 }
