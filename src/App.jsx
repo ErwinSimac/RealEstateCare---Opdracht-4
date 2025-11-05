@@ -4,14 +4,17 @@ import Logo from './assets/Logo REC.jpg';
 function App() {
   return (
     <div className="App">
+      {/* Bovenste kleurblok */}
       <div className="TopBlock"></div>
 
+      {/* Content */}
       <div className="AppContent">
-        <h1 style={{ color: '#004080', marginBottom: '20px' }}>Hello World</h1>
+        <h1>Hello World</h1>
         <img src={Logo} alt="RealEstateCare Logo" style={{ width: '200px', marginBottom: '20px' }} />
         <p>Welkom bij de RealEstateCare applicatie</p>
       </div>
 
+      {/* Onderste balk als gradient */}
       <div className="BottomBlock"></div>
     </div>
   );
