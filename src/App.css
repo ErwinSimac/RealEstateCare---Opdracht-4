@@ -1,4 +1,3 @@
-/* Zorg dat de pagina volledig scherm gebruikt */
 html, body, #root {
   margin: 0;
   padding: 0;
@@ -6,45 +5,47 @@ html, body, #root {
   width: 100%;
 }
 
-/* Hoofdcontainer */
 .App {
   display: flex;
   flex-direction: column;
   min-height: 100%;
 }
 
-/* Bovenste kleurblok */
 .TopBlock {
   width: 100%;
-  height: 10vh; /* 10% van de hoogte */
+  height: 10vh;
   background-color: rgba(0,170,162,0.3);
 }
 
-/* Content gecentreerd */
 .AppContent {
-  flex: 1;                   /* vult de rest van de pagina */
+  flex: 1;
   display: flex;
   flex-direction: column;
-  justify-content: center;    /* verticaal centreren */
-  align-items: center;        /* horizontaal centreren */
+  justify-content: center;
+  align-items: center;
   text-align: center;
 }
 
-/* Hello World tekst */
+.AppContent h1,
+.AppContent p { /* h1 en p dezelfde kleur */
+  color: rgba(41,52,57,1);
+}
+
 .AppContent h1 {
-  color: rgba(41,52,57,1); /* Huisstijl kleur */
   margin-bottom: 20px;
 }
 
-/* Onderste balk als gradient over basiskleur */
+.AppContent p {
+  margin-top: 0;
+}
+
 .BottomBlock {
   width: 100%;
   height: 10vh;
-  /* horizontale gradient zichtbaar */
   background: linear-gradient(
     to right,
-    rgba(71,94,108,1),  /* links: donkerblauw-grijs */
-    rgba(20,27,31,1)    /* rechts: bijna zwart */
+    rgba(71,94,108,1),
+    rgba(20,27,31,1)
   );
   margin-top: auto;
 }

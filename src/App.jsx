@@ -4,7 +4,7 @@ import Logo from './assets/Logo REC.jpg';
 function App() {
   return (
     <div className="App">
-      {/* Bovenste kleurblok */}
+      {/* Bovenste balk */}
       <div className="TopBlock"></div>
 
       {/* Centraal contentblok */}
@@ -14,7 +14,7 @@ function App() {
         <p>Welkom bij de RealEstateCare applicatie</p>
       </div>
 
-      {/* Onderste balk met gradient */}
+      {/* Onderste balk */}
       <div className="BottomBlock"></div>
     </div>
   );
