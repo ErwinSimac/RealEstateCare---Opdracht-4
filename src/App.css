@@ -1,29 +1,31 @@
-/* Zorg dat de hele pagina de volledige breedte en hoogte gebruikt */
+/* Zorg dat de pagina volledig scherm gebruikt */
 html, body, #root {
-  height: 100%;
   margin: 0;
   padding: 0;
+  height: 100%;
+  width: 100%;
 }
 
+/* Hoofdcontainer */
 .App {
   display: flex;
   flex-direction: column;
   min-height: 100%;
 }
 
-/* Kleurvlak bovenaan */
+/* Kleurblok bovenaan */
 .TopBlock {
-  width: 100%;               /* volle breedte */
-  height: 10vh;              /* 10% van de viewport height */
+  width: 100%;               /* volledige breedte */
+  height: 10vh;              /* 10% van viewport hoogte */
   background-color: rgba(0,170,162,0.3);
 }
 
-/* Content onder kleurvlak, gecentreerd */
+/* Content onder kleurblok, gecentreerd */
 .AppContent {
-  flex: 1;                   /* vult rest van de pagina */
+  flex: 1;                   /* vult de rest van de pagina */
   display: flex;
   flex-direction: column;
-  justify-content: center;    /* verticaal */
-  align-items: center;        /* horizontaal */
+  justify-content: center;    /* verticaal centreren */
+  align-items: center;        /* horizontaal centreren */
   text-align: center;
 }
