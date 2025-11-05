@@ -7,14 +7,14 @@ function App() {
       {/* Bovenste kleurblok */}
       <div className="TopBlock"></div>
 
-      {/* Content */}
+      {/* Centraal contentblok */}
       <div className="AppContent">
         <h1>Hello World</h1>
         <img src={Logo} alt="RealEstateCare Logo" style={{ width: '200px', marginBottom: '20px' }} />
         <p>Welkom bij de RealEstateCare applicatie</p>
       </div>
 
-      {/* Onderste balk: horizontale gradient */}
+      {/* Onderste balk met gradient */}
       <div className="BottomBlock"></div>
     </div>
   );

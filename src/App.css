@@ -1,3 +1,4 @@
+/* Zorg dat de pagina volledig scherm gebruikt */
 html, body, #root {
   margin: 0;
   padding: 0;
@@ -5,6 +6,7 @@ html, body, #root {
   width: 100%;
 }
 
+/* Hoofdcontainer */
 .App {
   display: flex;
   flex-direction: column;
@@ -14,33 +16,34 @@ html, body, #root {
 /* Bovenste kleurblok */
 .TopBlock {
   width: 100%;
-  height: 10vh;
+  height: 10vh; /* 10% van de hoogte */
   background-color: rgba(0,170,162,0.3);
-}
-
-/* Onderste balk: horizontale gradient van links naar rechts */
-.BottomBlock {
-  width: 100%;
-  height: 10vh;
-  background: linear-gradient(
-    to right,
-    rgba(71,94,108,0),  /* links */
-    rgba(20,27,31,0)    /* rechts */
-  );
-  margin-top: auto; /* plakt onderaan */
 }
 
 /* Content gecentreerd */
 .AppContent {
-  flex: 1;
+  flex: 1;                   /* vult de rest van de pagina */
   display: flex;
   flex-direction: column;
-  justify-content: center; /* verticaal centreren */
-  align-items: center;     /* horizontaal centreren */
+  justify-content: center;    /* verticaal centreren */
+  align-items: center;        /* horizontaal centreren */
   text-align: center;
 }
 
+/* Hello World tekst */
 .AppContent h1 {
-  color: rgba(41,52,57,1); /* Hello World kleur */
+  color: rgba(41,52,57,1); /* Huisstijl kleur */
   margin-bottom: 20px;
+}
+
+/* Onderste balk als gradient over basiskleur */
+.BottomBlock {
+  width: 100%;
+  height: 10vh; /* 10% van de hoogte */
+  background: linear-gradient(
+    to right,
+    rgba(71,94,108,0.3),  /* links */
+    rgba(20,27,31,0.3)    /* rechts */
+  );
+  margin-top: auto; /* plakt onderaan */
 }
