@@ -14,7 +14,7 @@ function App() {
         <p>Welkom bij de RealEstateCare applicatie</p>
       </div>
 
-      {/* Onderste balk als gradient */}
+      {/* Onderste balk: horizontale gradient */}
       <div className="BottomBlock"></div>
     </div>
   );
