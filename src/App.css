@@ -39,11 +39,12 @@ html, body, #root {
 /* Onderste balk als gradient over basiskleur */
 .BottomBlock {
   width: 100%;
-  height: 10vh; /* 10% van de hoogte */
+  height: 10vh;
+  /* horizontale gradient zichtbaar */
   background: linear-gradient(
     to right,
-    rgba(71,94,108,0.3),  /* links */
-    rgba(20,27,31,0.3)    /* rechts */
+    rgba(71,94,108,1),  /* links: donkerblauw-grijs */
+    rgba(20,27,31,1)    /* rechts: bijna zwart */
   );
-  margin-top: auto; /* plakt onderaan */
+  margin-top: auto;
 }
