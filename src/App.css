@@ -1,3 +1,4 @@
+/* Zorg dat de pagina volledig scherm gebruikt */
 html, body, #root {
   margin: 0;
   padding: 0;
@@ -5,29 +6,33 @@ html, body, #root {
   width: 100%;
 }
 
+/* Hoofdcontainer */
 .App {
   display: flex;
   flex-direction: column;
   min-height: 100%;
 }
 
+/* Bovenste kleurbalk */
 .TopBlock {
   width: 100%;
   height: 10vh;
   background-color: rgba(0,170,162,0.3);
 }
 
+/* Content gecentreerd */
 .AppContent {
   flex: 1;
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  align-items: center;
+  justify-content: center;  /* verticaal centreren */
+  align-items: center;      /* horizontaal centreren */
   text-align: center;
 }
 
+/* Tekst kleur */
 .AppContent h1,
-.AppContent p { /* h1 en p dezelfde kleur */
+.AppContent p { 
   color: rgba(41,52,57,1);
 }
 
@@ -39,6 +44,7 @@ html, body, #root {
   margin-top: 0;
 }
 
+/* Onderste kleurbalk */
 .BottomBlock {
   width: 100%;
   height: 10vh;
