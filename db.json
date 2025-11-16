@@ -2,25 +2,38 @@
   "rapportages": [
     {
       "id": 1,
-      "title": "Schade opnemen",
-      "fields": {
+      "titel": "Inspectie 1",
+      "schadeOpnemen": {
         "locatie": "",
-        "nieuweSchade": null,
-        "soortSchade": ["moedwillig", "slijtage", "geweld", "normaal gebruik", "calamiteit", "anders"],
+        "nieuweSchade": "",
+        "soortSchade": "",
         "datum": "",
-        "acuteActie": null,
+        "acuteActie": "",
         "omschrijving": ""
-      }
-    },
-    {
-      "id": 2,
-      "title": "Achterstallig onderhoud opnemen",
-      "fields": {
+      },
+      "achterstalligOnderhoud": {
         "locatie": "",
-        "soortOnderhoud": ["schilderwerk", "houtrot", "elektra", "leidingwerk", "beglazing"],
-        "acuteActie": null,
-        "kosten": ["0-500", "500-1500", "1500+"]
-      }
+        "soortOnderhoud": "",
+        "acuteActie": "",
+        "kostenIndicatie": ""
+      },
+      "technischeInstallaties": {
+        "locatie": "",
+        "soortInstallatie": "",
+        "storingen": "",
+        "testprocedure": "",
+        "goedgekeurd": "",
+        "opmerkingen": ""
+      },
+      "modificaties": {
+        "situatie": "",
+        "locatie": "",
+        "uitgevoerdDoor": "",
+        "beschrijving": "",
+        "actie": "",
+        "opmerkingen": ""
+      },
+      "fotoUrls": []
     }
   ]
 }
