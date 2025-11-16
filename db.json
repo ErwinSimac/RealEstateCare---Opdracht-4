@@ -1,1 +1,26 @@
-
+{
+  "rapportages": [
+    {
+      "id": 1,
+      "title": "Schade opnemen",
+      "fields": {
+        "locatie": "",
+        "nieuweSchade": null,
+        "soortSchade": ["moedwillig", "slijtage", "geweld", "normaal gebruik", "calamiteit", "anders"],
+        "datum": "",
+        "acuteActie": null,
+        "omschrijving": ""
+      }
+    },
+    {
+      "id": 2,
+      "title": "Achterstallig onderhoud opnemen",
+      "fields": {
+        "locatie": "",
+        "soortOnderhoud": ["schilderwerk", "houtrot", "elektra", "leidingwerk", "beglazing"],
+        "acuteActie": null,
+        "kosten": ["0-500", "500-1500", "1500+"]
+      }
+    }
+  ]
+}
