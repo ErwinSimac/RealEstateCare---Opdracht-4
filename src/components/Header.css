@@ -1,0 +1,160 @@
+.AppHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 90px;
+  padding: 0 20px;
+  background-color: rgba(0,170,162,1);
+  flex-shrink: 0;
+}
+
+/* Links */
+.HeaderLeft {
+  display: flex;
+  align-items: center;
+}
+
+.Logo {
+  width: 40px;
+  height: 40px;
+  margin-right: 10px;
+}
+
+/* Midden */
+.HeaderCenter {
+  display: flex;
+  flex: 1;
+  justify-content: space-around;
+  align-items: center;
+}
+
+/* NavItem (icoon + tekst) */
+.HeaderCenter .NavItem {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.8rem;
+  text-align: center;
+  cursor: pointer;
+  color: rgba(41,52,57,1);
+  font-weight: normal !important;
+}
+
+/* Touch/klik-effect voor nav-items */
+.HeaderCenter .NavItem:active {
+  transform: scale(0.9);
+  transition: transform 0.1s ease;
+}
+
+/* Iconen even hoog als logo */
+.HeaderCenter svg {
+  height: 40px;
+  width: auto;
+  margin-bottom: 4px;
+}
+
+/* Reset voor buttons zodat er geen kleur/outline komt */
+.HeaderCenter button {
+  background: none;
+  border: none;
+  padding: 0;
+  margin: 0;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: inherit;
+  font: inherit;
+}
+
+/* Zoekbalk */
+.SearchForm {
+  margin-top: 4px; 
+}
+
+.SearchInput {
+  padding: 4px 8px;
+  font-size: 0.8rem;
+  border-radius: 4px;
+  border: 1px solid rgba(41,52,57,0.5);
+  outline: none;
+  width: 120px;
+}
+
+.SearchInput:focus {
+  border-color: rgba(0,170,162,1);
+}
+
+/* Zorg dat de header relatief gepositioneerd is */
+.AppHeader {
+  position: relative; 
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 90px;
+  padding: 0 20px;
+  background-color: rgba(0,170,162,1);
+  flex-shrink: 0;
+  z-index: 10;
+}
+
+/* Zoekbalk onder de header */
+.SearchContainer {
+  position: absolute;
+  top: 100%;      
+  left: 0;
+  width: 100%;     
+  padding: 5px 20px;
+  background-color: white;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+  z-index: 15;
+}
+
+/* Input veld */
+.SearchInput {
+  width: 100%;
+  padding: 8px 10px;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+/* Zoekveld container */
+.SearchContainer {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  padding: 5px 20px;
+  background-color: white;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+  z-index: 15;
+}
+
+/* Input */
+.SearchInput {
+  flex: 1;
+  padding: 8px 10px;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 4px 0 0 4px;
+  box-sizing: border-box;
+}
+
+/* Zoek knop */
+.SearchButton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 8px 10px;
+  border: 1px solid #ccc;
+  border-left: 0;
+  background-color: #eee;
+  border-radius: 0 4px 4px 0;
+  cursor: pointer;
+}

@@ -1,0 +1,121 @@
+.LoginPage {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;      
+  background-color: #f2f2f2;
+  min-height: 100vh;
+  position: relative;           
+  padding-top: 90px;           
+  padding-bottom: 10vh;          
+  box-sizing: border-box;
+}
+
+/* Header-balk bovenin */
+.LoginHeader {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  height: 90px;
+  background-color: rgba(0,170,162,1);
+  padding: 0 20px;
+  box-sizing: border-box;
+  position: fixed;              
+  top: 0;
+  left: 0;
+  z-index: 20;
+}
+
+/* Logo links */
+.LoginLogo {
+  width: 40px;
+  height: 40px;
+  margin-right: 10px;
+}
+
+/* Tekst naast logo */
+.LoginHeaderText {
+  font-weight: bold;
+  font-size: 1.2rem;
+  color: rgba(41,52,57,1);
+}
+
+/* Login-form container */
+.LoginContainer {
+  background-color: white;
+  padding: 40px 30px;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  width: 320px;
+  text-align: center;
+  z-index: 10;
+}
+
+/* Titel */
+.LoginTitle {
+  color: rgba(41,52,57,1);
+  font-size: 1.8rem;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+/* Formulier */
+.LoginForm {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.FormGroup {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+}
+
+.FormGroup label {
+  margin-bottom: 5px;
+  font-weight: bold;
+  color: rgba(41,52,57,1);
+  font-size: 0.9rem;
+}
+
+.FormGroup input {
+  padding: 8px 12px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 1rem;
+}
+
+.LoginButton {
+  background-color: rgba(0,170,162,1);
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 6px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: transform 0.1s ease;
+}
+
+.LoginButton:active {
+  transform: scale(0.97);
+}
+
+.LoginError {
+  color: red;
+  font-size: 0.85rem;
+  margin-top: -5px;
+}
+
+/* Onderste balk op login */
+.LoginTabBar {
+  width: 100%;
+  height: 10vh;
+  min-height: 60px;
+  background: linear-gradient(to right, rgba(71,94,108,1), rgba(20,27,31,1));
+  flex-shrink: 0;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  z-index: 10;
+}

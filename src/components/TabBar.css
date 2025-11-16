@@ -1,0 +1,57 @@
+.TabBar {
+  display: flex;
+  justify-content: space-between; /* verdeel items gelijkmatig */
+  align-items: center;
+  height: 10vh;                   /* gelijk aan header */
+  background: linear-gradient(to right, rgba(71,94,108,1), rgba(20,27,31,1));
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  padding: 0;
+  z-index: 10;
+}
+
+.TabItem {
+  flex: 1;                        /* gelijkmatig breedte per tab */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.8rem;
+  text-align: center;
+  color: white;
+  font-weight: normal;
+  cursor: pointer;
+  background: none;
+  border: none;
+  padding: 0;
+  outline: none;
+  transition: transform 0.1s;
+}
+
+.TabItem:active {
+  transform: scale(0.95);
+}
+
+.TabItem svg {
+  width: 25px;
+  height: 25px;
+  display: block;
+  margin-bottom: 5px;
+}
+
+/* Media query voor kleinere schermen */
+@media (max-width: 768px) {
+  .TabBar {
+    height: 10vh;
+  }
+
+  .TabItem {
+    font-size: 0.75rem;
+  }
+
+  .TabItem svg {
+    width: 25px;
+    height: 25px;
+  }
+}

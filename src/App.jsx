@@ -1,26 +1,51 @@
 import React from 'react';
+import { BrowserRouter as Router, Routes, Route, useLocation } from 'react-router-dom';
 import './App.css';
-import Header from './Header';
+import Header from './components/Header';
+import TabBar from './components/TabBar';
+import DashboardMenu from './components/DashboardMenu';
+
+import OpenstaandeInspecties from './pages/Toegewezen rapportages';
+import UitgevoerdeInspecties from './pages/Uitgevoerde rapportages openen';
+import KnowledgeBase from './pages/Kennisbasedocumentatie';
+import Instellingen from './pages/Instellingen';
+import Login from './pages/login';
+
+// Wrapper om route info te krijgen
+function Layout({ children }) {
+  const location = useLocation();
+  const hideNav = location.pathname === '/login'; // login check
+
+  return (
+    <div className="App">
+      {!hideNav && <Header />}
+      <main className="MainContent">{children}</main>
+      {!hideNav && <TabBar />}
+    </div>
+  );
+}
 
 function App() {
   return (
-    <div className="App">
-      {/* Header bovenaan */}
-      <Header />
-
-      {/* Centraal contentblok */}
-      <main className="MainContent" style={{ textAlign: 'center', padding: '50px', backgroundColor: '#F5F5F5', minHeight: '70vh' }}>
-        <h1 style={{ color: 'rgba(41,52,57,1)' }}>Hello World</h1>
-        <p style={{ color: 'rgba(41,52,57,1)' }}>Welkom bij de RealEstateCare applicatie</p>
-      </main>
-
-      {/* Onderste balk (kan later tab bar worden) */}
-      <footer className="BottomBlock" style={{
-        height: '60px',
-        background: 'linear-gradient(to right, rgba(71,94,108,1), rgba(20,27,31,1))'
-      }}>
-      </footer>
-    </div>
+    <Router>
+      <Routes>
+        <Route path="/login" element={<Login />} />
+        <Route
+          path="/*"
+          element={
+            <Layout>
+              <Routes>
+                <Route path="/" element={<DashboardMenu />} />
+                <Route path="/Toegewezen-rapportages" element={<OpenstaandeInspecties />} />
+                <Route path="/Uitgevoerde-rapportages-openen" element={<UitgevoerdeInspecties />} />
+                <Route path="/Kennisbasedocumentatie" element={<KnowledgeBase />} />
+                <Route path="/instellingen" element={<Instellingen />} />
+              </Routes>
+            </Layout>
+          }
+        />
+      </Routes>
+    </Router>
   );
 }
 

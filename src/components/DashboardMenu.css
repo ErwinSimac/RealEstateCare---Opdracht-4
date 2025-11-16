@@ -1,0 +1,45 @@
+.DashboardMenu {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 40px;
+  margin: 20px 0;
+}
+
+/* Reset button styling volledig */
+.DashboardItem {
+  background: none;
+  border: none;
+  padding: 0;
+  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+  color: rgba(41,52,57,1);
+  font-weight: bold;
+  font-size: 1rem;
+  cursor: pointer;
+
+  text-align: center;
+
+  transition: transform 0.1s ease-in-out;
+}
+
+/* Icon styling */
+.DashboardItem svg {
+  width: 50px;
+  height: 50px;
+  margin-bottom: 8px;
+}
+
+/* Klik-animatie */
+.DashboardItem:active {
+  transform: scale(0.9);
+}
+
+/* WCAG-compatibele focus outline */
+.DashboardItem:focus {
+  outline: 3px solid rgba(0,170,162,0.35);
+  border-radius: 12px;
+  outline-offset: 6px;
+}

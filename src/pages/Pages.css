@@ -1,0 +1,26 @@
+/* Container voor elke pagina */
+.PageContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center; 
+  align-items: center;    
+  min-height: 80vh;        
+  padding: 2vh 2vw;
+  text-align: center;
+  overflow-y: auto;        
+}
+
+/* Titels op de pagina */
+.PageContainer h2 {
+  font-size: clamp(1.5rem, 2.5vw, 2rem);
+  margin-bottom: 1rem;
+  color: rgba(41,52,57,1);
+}
+
+/* Paragraphs */
+.PageContainer p {
+  font-size: clamp(1rem, 2vw, 1.2rem);
+  line-height: 1.6;
+  color: rgba(41,52,57,1);
+  max-width: 600px;       
+}
