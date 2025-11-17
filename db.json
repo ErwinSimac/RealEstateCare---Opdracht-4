@@ -1,4 +1,79 @@
 {
+  "rapportages": [
+    {
+      "id": 1,
+      "title": "Inspectie Winkelcentrum Noord",
+      "schadeOpnemen": {},
+      "achterstalligOnderhoud": {},
+      "technischeInstallaties": {},
+      "modificaties": {},
+      "fotoUrls": []
+    },
+    {
+      "id": 2,
+      "title": "Schadeopname Appartement 3B",
+      "schadeOpnemen": {},
+      "achterstalligOnderhoud": {},
+      "technischeInstallaties": {},
+      "modificaties": {},
+      "fotoUrls": []
+    },
+    {
+      "id": 3,
+      "title": "Achterstallig Onderhoud Gebouw C",
+      "schadeOpnemen": {},
+      "achterstalligOnderhoud": {},
+      "technischeInstallaties": {},
+      "modificaties": {},
+      "fotoUrls": []
+    },
+    {
+      "id": 4,
+      "title": "Technische Installatie Check P1",
+      "schadeOpnemen": {},
+      "achterstalligOnderhoud": {},
+      "technischeInstallaties": {},
+      "modificaties": {},
+      "fotoUrls": []
+    },
+    {
+      "id": 5,
+      "title": "Modificaties Inventarisatie Hal 12",
+      "schadeOpnemen": {},
+      "achterstalligOnderhoud": {},
+      "technischeInstallaties": {},
+      "modificaties": {},
+      "fotoUrls": []
+    },
+    {
+      "id": 6,
+      "title": "Inspectie Kantoorpand Zuid",
+      "schadeOpnemen": {},
+      "achterstalligOnderhoud": {},
+      "technischeInstallaties": {},
+      "modificaties": {},
+      "fotoUrls": []
+    },
+    {
+      "id": 7,
+      "title": "Schadeopname Parkeergarage",
+      "schadeOpnemen": {},
+      "achterstalligOnderhoud": {},
+      "technischeInstallaties": {},
+      "modificaties": {},
+      "fotoUrls": []
+    },
+    {
+      "id": 8,
+      "title": "Onderhoudsrondgang Blok D",
+      "schadeOpnemen": {},
+      "achterstalligOnderhoud": {},
+      "technischeInstallaties": {},
+      "modificaties": {},
+      "fotoUrls": []
+    }
+  ],
+
   "template": {
     "schadeOpnemen": {
       "locatie": "",
