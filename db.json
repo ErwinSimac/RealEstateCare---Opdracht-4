@@ -4,7 +4,7 @@
       "id": 1,
       "title": "Inspectie Winkelcentrum Noord",
       "template": {
-        "damageAssessment": {
+        "schadeopnemen": {
           "location": "",
           "newDamage": "",
           "damageType": "",
@@ -75,7 +75,7 @@
   ],
 
   "template": {
-    "damageAssessment": {
+    "schadeopnemen": {
       "location": "",
       "newDamage": "",
       "damageType": "",
