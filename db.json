@@ -1,36 +1,39 @@
-
 {
   "rapportages": [
-{
-  "schadeOpnemen": {
-    "locatie": "",
-    "nieuweSchade": "",
-    "soortSchade": "",
-    "datum": "",
-    "acuteActie": "",
-    "omschrijving": ""
-  },
-  "achterstalligOnderhoud": {
-    "locatie": "",
-    "soortOnderhoud": "",
-    "acuteActie": "",
-    "kostenIndicatie": ""
-  },
-  "technischeInstallaties": {
-    "locatie": "",
-    "soortInstallatie": "",
-    "storingen": "",
-    "testprocedure": "",
-    "goedgekeurd": "",
-    "opmerkingen": ""
-  },
-  "modificaties": {
-    "situatie": "",
-    "locatie": "",
-    "uitgevoerdDoor": "",
-    "beschrijving": "",
-    "actie": "",
-    "opmerkingen": ""
-  },
-  "fotoUrls": []
+    {
+      "id": 1,
+      "titel": "Template Rapportage",
+      "schadeOpnemen": {
+        "locatie": "",
+        "nieuweSchade": "",
+        "soortSchade": "",
+        "datum": "",
+        "acuteActie": "",
+        "omschrijving": ""
+      },
+      "achterstalligOnderhoud": {
+        "locatie": "",
+        "soortOnderhoud": "",
+        "acuteActie": "",
+        "kostenIndicatie": ""
+      },
+      "technischeInstallaties": {
+        "locatie": "",
+        "soortInstallatie": "",
+        "storingen": "",
+        "testprocedure": "",
+        "goedgekeurd": "",
+        "opmerkingen": ""
+      },
+      "modificaties": {
+        "situatie": "",
+        "locatie": "",
+        "uitgevoerdDoor": "",
+        "beschrijving": "",
+        "actie": "",
+        "opmerkingen": ""
+      },
+      "fotoUrls": []
+    }
+  ]
 }
