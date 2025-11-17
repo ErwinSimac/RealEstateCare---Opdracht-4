@@ -1,9 +1,35 @@
 {
   "template": {
-    "schadeOpnemen": { "locatie": "", "nieuweSchade": "", "soortSchade": "", "datum": "", "acuteActie": "", "omschrijving": "" },
-    "achterstalligOnderhoud": { "locatie": "", "soortOnderhoud": "", "acuteActie": "", "kostenIndicatie": "" },
-    "technischeInstallaties": { "locatie": "", "soortInstallatie": "", "storingen": "", "testprocedure": "", "goedgekeurd": "", "opmerkingen": "" },
-    "modificaties": { "situatie": "", "locatie": "", "uitgevoerdDoor": "", "beschrijving": "", "actie": "", "opmerkingen": "" },
+    "schadeOpnemen": {
+      "locatie": "",
+      "nieuweSchade": "",
+      "soortSchade": "",
+      "datum": "",
+      "acuteActie": "",
+      "omschrijving": ""
+    },
+    "achterstalligOnderhoud": {
+      "locatie": "",
+      "soortOnderhoud": "",
+      "acuteActie": "",
+      "kostenIndicatie": ""
+    },
+    "technischeInstallaties": {
+      "locatie": "",
+      "soortInstallatie": "",
+      "storingen": "",
+      "testprocedure": "",
+      "goedgekeurd": "",
+      "opmerkingen": ""
+    },
+    "modificaties": {
+      "situatie": "",
+      "locatie": "",
+      "uitgevoerdDoor": "",
+      "beschrijving": "",
+      "actie": "",
+      "opmerkingen": ""
+    },
     "fotoUrls": []
   }
 }
