@@ -4,37 +4,37 @@
       "id": 1,
       "title": "Inspectie Winkelcentrum Noord",
       "template": {
-        "damageAssessment": {
-          "location": "",
-          "newDamage": "",
-          "damageType": "",
-          "date": "",
-          "urgentAction": "",
-          "description": ""
+        "SchadeOpnemen": {
+          "Locatie": "",
+          "NieuweSchade": "",
+          "SoortSchade": "",
+          "Datum": "",
+          "AcuteActie": "",
+          "Omschrijving": ""
         },
-        "maintenance": {
-          "location": "",
-          "maintenanceType": "",
-          "urgentAction": "",
-          "costIndication": ""
+        "AchterstalligOnderhoud": {
+          "Locatie": "",
+          "SoortOnderhoud": "",
+          "AcuteActie": "",
+          "KostenIndicatie": ""
         },
-        "technicalSystems": {
-          "location": "",
-          "systemType": "",
-          "reportedIssues": "",
-          "testProcedure": "",
-          "approved": "",
-          "remarks": ""
+        "TechnischeInstallaties": {
+          "Locatie": "",
+          "SoortInstallatie": "",
+          "GemeldeStoringen": "",
+          "Testprocedure": "",
+          "Goedgekeurd": "",
+          "Opmerkingen": ""
         },
-        "modifications": {
-          "situation": "",
-          "location": "",
-          "performedBy": "",
-          "description": "",
-          "actionRequired": "",
-          "remarks": ""
+        "Modificaties": {
+          "Situatie": "",
+          "Locatie": "",
+          "UitgevoerdDoor": "",
+          "Beschrijving": "",
+          "TeOndernemenActie": "",
+          "Opmerkingen": ""
         },
-        "photos": []
+        "FotoUrls": []
       }
     },
     {
@@ -75,36 +75,36 @@
   ],
 
   "template": {
-    "damageAssessment": {
-      "location": "",
-      "newDamage": "",
-      "damageType": "",
-      "date": "",
-      "urgentAction": "",
-      "description": ""
+    "SchadeOpnemen": {
+      "Locatie": "",
+      "NieuweSchade": "",
+      "SoortSchade": "",
+      "Datum": "",
+      "AcuteActie": "",
+      "Omschrijving": ""
     },
-    "maintenance": {
-      "location": "",
-      "maintenanceType": "",
-      "urgentAction": "",
-      "costIndication": ""
+    "AchterstalligOnderhoud": {
+      "Locatie": "",
+      "SoortOnderhoud": "",
+      "AcuteActie": "",
+      "KostenIndicatie": ""
     },
-    "technicalSystems": {
-      "location": "",
-      "systemType": "",
-      "reportedIssues": "",
-      "testProcedure": "",
-      "approved": "",
-      "remarks": ""
+    "TechnischeInstallaties": {
+      "Locatie": "",
+      "SoortInstallatie": "",
+      "GemeldeStoringen": "",
+      "Testprocedure": "",
+      "Goedgekeurd": "",
+      "Opmerkingen": ""
     },
-    "modifications": {
-      "situation": "",
-      "location": "",
-      "performedBy": "",
-      "description": "",
-      "actionRequired": "",
-      "remarks": ""
+    "Modificaties": {
+      "Situatie": "",
+      "Locatie": "",
+      "UitgevoerdDoor": "",
+      "Beschrijving": "",
+      "TeOndernemenActie": "",
+      "Opmerkingen": ""
     },
-    "photos": []
+    "FotoUrls": []
   }
 }
