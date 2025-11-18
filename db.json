@@ -108,3 +108,309 @@
     "FotoUrls": []
   }
 }
+
+"completedReports": [
+  {
+    "id": 101,
+    "title": "Uitgevoerde Inspectie Winkelcentrum Noord",
+    "template": {
+      "schadeOpnemen": {
+        "locatie": "Ingang oost",
+        "nieuweSchade": "Ja",
+        "soortSchade": "Vandalisme",
+        "datum": "2025-02-10",
+        "acuteActie": "Nee",
+        "omschrijving": "Graffiti op glazen deur."
+      },
+      "achterstalligOnderhoud": {
+        "locatie": "Parkeergarage - verdieping -1",
+        "soortOnderhoud": "Verlichting defect",
+        "acuteActie": "Ja",
+        "kostenIndicatie": "500-1500"
+      },
+      "technischeInstallaties": {
+        "locatie": "Technische ruimte B",
+        "soortInstallatie": "Ventilatie",
+        "storingen": "Luchtfilter defect",
+        "testprocedure": "Druktest + filtercontrole",
+        "goedgekeurd": "Nee",
+        "opmerkingen": "Filter vervangen binnen 48 uur."
+      },
+      "modificaties": {
+        "situatie": "Aanpassing na schade",
+        "locatie": "Hoofdingang",
+        "uitgevoerdDoor": "Aannemer",
+        "beschrijving": "Nieuwe ruit geplaatst",
+        "actie": "Inspecteren",
+        "opmerkingen": "Netjes uitgevoerd."
+      },
+      "fotoUrls": []
+    }
+  },
+
+  {
+    "id": 102,
+    "title": "Inspectie Appartementencomplex Blok A",
+    "template": {
+      "schadeOpnemen": {
+        "locatie": "Trapportaal 2",
+        "nieuweSchade": "Nee",
+        "soortSchade": "Normale slijtage",
+        "datum": "2025-01-22",
+        "acuteActie": "Nee",
+        "omschrijving": "Versleten rubberen trapranden."
+      },
+      "achterstalligOnderhoud": {
+        "locatie": "Liften",
+        "soortOnderhoud": "Mechanisch onderhoud",
+        "acuteActie": "Nee",
+        "kostenIndicatie": "1500+"
+      },
+      "technischeInstallaties": {
+        "locatie": "Liftinstallatie",
+        "soortInstallatie": "Elektrisch",
+        "storingen": "Geen storingen gemeld",
+        "testprocedure": "Automatische test uitgevoerd",
+        "goedgekeurd": "Ja",
+        "opmerkingen": ""
+      },
+      "modificaties": {
+        "situatie": "Zelf aangebracht",
+        "locatie": "App 3C balkon",
+        "uitgevoerdDoor": "Huurder",
+        "beschrijving": "Scherm geplaatst tegen wind",
+        "actie": "Inspecteren",
+        "opmerkingen": "Mogelijk hinderlijk bij storm."
+      },
+      "fotoUrls": []
+    }
+  },
+
+  {
+    "id": 103,
+    "title": "Technische Controle Kantoorpand Zuid",
+    "template": {
+      "schadeOpnemen": {
+        "locatie": "Keukenruimte 2",
+        "nieuweSchade": "Ja",
+        "soortSchade": "Waterschade",
+        "datum": "2025-02-03",
+        "acuteActie": "Ja",
+        "omschrijving": "Lekkage onder gootsteen."
+      },
+      "achterstalligOnderhoud": {
+        "locatie": "Gangverlichting 1e verdieping",
+        "soortOnderhoud": "Verlichting",
+        "acuteActie": "Nee",
+        "kostenIndicatie": "0-500"
+      },
+      "technischeInstallaties": {
+        "locatie": "CV ketelruimte",
+        "soortInstallatie": "Verwarming",
+        "storingen": "Druk te laag",
+        "testprocedure": "Water bijgevuld + druktest",
+        "goedgekeurd": "Ja",
+        "opmerkingen": "Binnenkort groot onderhoud gepland."
+      },
+      "modificaties": {
+        "situatie": "Onbekend",
+        "locatie": "Serverruimte",
+        "uitgevoerdDoor": "Onbekend",
+        "beschrijving": "Extra kabels aangelegd",
+        "actie": "Inspecteren",
+        "opmerkingen": "Kabelmanagement onvoldoende."
+      },
+      "fotoUrls": []
+    }
+  },
+
+  {
+    "id": 104,
+    "title": "Schadeopname Parkeergarage Centrum",
+    "template": {
+      "schadeOpnemen": {
+        "locatie": "Uitgang west",
+        "nieuweSchade": "Ja",
+        "soortSchade": "Aanrijding",
+        "datum": "2025-01-29",
+        "acuteActie": "Ja",
+        "omschrijving": "Betonnen paal geraakt door voertuig."
+      },
+      "achterstalligOnderhoud": {
+        "locatie": "Betonvloer niveau -2",
+        "soortOnderhoud": "Scheurvorming",
+        "acuteActie": "Nee",
+        "kostenIndicatie": "1500+"
+      },
+      "technischeInstallaties": {
+        "locatie": "Ventilatieschacht",
+        "soortInstallatie": "Ventilatie",
+        "storingen": "Ventilator maakt lawaai",
+        "testprocedure": "Geluidstest + controle lagers",
+        "goedgekeurd": "Nee",
+        "opmerkingen": "Lagers versleten."
+      },
+      "modificaties": {
+        "situatie": "Geen",
+        "locatie": "",
+        "uitgevoerdDoor": "",
+        "beschrijving": "",
+        "actie": "",
+        "opmerkingen": ""
+      },
+      "fotoUrls": []
+    }
+  },
+
+  {
+    "id": 105,
+    "title": "Onderhoudsrondgang Blok D",
+    "template": {
+      "schadeOpnemen": {
+        "locatie": "Berging",
+        "nieuweSchade": "Nee",
+        "soortSchade": "Geen",
+        "datum": "2025-01-17",
+        "acuteActie": "Nee",
+        "omschrijving": "Geen bijzonderheden."
+      },
+      "achterstalligOnderhoud": {
+        "locatie": "Daken",
+        "soortOnderhoud": "Mosvorming",
+        "acuteActie": "Nee",
+        "kostenIndicatie": "500-1500"
+      },
+      "technischeInstallaties": {
+        "locatie": "CV installatie",
+        "soortInstallatie": "Verwarming",
+        "storingen": "Geen",
+        "testprocedure": "Drukmeting goed",
+        "goedgekeurd": "Ja",
+        "opmerkingen": ""
+      },
+      "modificaties": {
+        "situatie": "Zelf aangebracht",
+        "locatie": "App 1A",
+        "uitgevoerdDoor": "Huurder",
+        "beschrijving": "Binnenwand aangepast",
+        "actie": "Inspecteren",
+        "opmerkingen": "Controle constructie nodig."
+      },
+      "fotoUrls": []
+    }
+  },
+
+  {
+    "id": 106,
+    "title": "Controle Technische Installaties Winkelcomplex West",
+    "template": {
+      "schadeOpnemen": {
+        "locatie": "Magazijn",
+        "nieuweSchade": "Nee",
+        "soortSchade": "Normale slijtage",
+        "datum": "2025-02-04",
+        "acuteActie": "Nee",
+        "omschrijving": "Versleten drempel"
+      },
+      "achterstalligOnderhoud": {
+        "locatie": "Kantine",
+        "soortOnderhoud": "Schilderwerk",
+        "acuteActie": "Nee",
+        "kostenIndicatie": "0-500"
+      },
+      "technischeInstallaties": {
+        "locatie": "Beveiligingssysteem",
+        "soortInstallatie": "Beveiliging",
+        "storingen": "Camera 3 offline",
+        "testprocedure": "Herstart + kabeltest",
+        "goedgekeurd": "Nee",
+        "opmerkingen": "Vervanging camera nodig."
+      },
+      "modificaties": {
+        "situatie": "Aangepast",
+        "locatie": "Achterdeur",
+        "uitgevoerdDoor": "Aannemer",
+        "beschrijving": "Nieuwe deurdranger geplaatst",
+        "actie": "Accept",
+        "opmerkingen": ""
+      },
+      "fotoUrls": []
+    }
+  },
+
+  {
+    "id": 107,
+    "title": "Inspectie Schoolgebouw Oost",
+    "template": {
+      "schadeOpnemen": {
+        "locatie": "Speelplaats",
+        "nieuweSchade": "Ja",
+        "soortSchade": "Vandalisme",
+        "datum": "2025-01-20",
+        "acuteActie": "Nee",
+        "omschrijving": "Losse planken in hekwerk."
+      },
+      "achterstalligOnderhoud": {
+        "locatie": "Dakgoten",
+        "soortOnderhoud": "Reiniging",
+        "acuteActie": "Ja",
+        "kostenIndicatie": "0-500"
+      },
+      "technischeInstallaties": {
+        "locatie": "Brandmeldinstallatie",
+        "soortInstallatie": "Elektrisch",
+        "storingen": "Detector zone 2 storing",
+        "testprocedure": "Handmatige test",
+        "goedgekeurd": "Nee",
+        "opmerkingen": "Laten nakijken door specialist."
+      },
+      "modificaties": {
+        "situatie": "Geen",
+        "locatie": "",
+        "uitgevoerdDoor": "",
+        "beschrijving": "",
+        "actie": "",
+        "opmerkingen": ""
+      },
+      "fotoUrls": []
+    }
+  },
+
+  {
+    "id": 108,
+    "title": "Technische Inspectie Productiehallen 5 & 6",
+    "template": {
+      "schadeOpnemen": {
+        "locatie": "Transportband zone",
+        "nieuweSchade": "Nee",
+        "soortSchade": "Slijtage",
+        "datum": "2025-02-05",
+        "acuteActie": "Nee",
+        "omschrijving": "Rubberband begint te scheuren."
+      },
+      "achterstalligOnderhoud": {
+        "locatie": "Machinekamer",
+        "soortOnderhoud": "Smering onderdelen",
+        "acuteActie": "Ja",
+        "kostenIndicatie": "500-1500"
+      },
+      "technischeInstallaties": {
+        "locatie": "Koelsysteem",
+        "soortInstallatie": "Koeling",
+        "storingen": "Koelmiddel laag",
+        "testprocedure": "Druktest + lekkagetest",
+        "goedgekeurd": "Nee",
+        "opmerkingen": "Mogelijke lekkage gevonden"
+      },
+      "modificaties": {
+        "situatie": "Intern uitgevoerd",
+        "locatie": "Hal 5",
+        "uitgevoerdDoor": "Technische dienst",
+        "beschrijving": "Beugel verstevigd",
+        "actie": "Inspecteren",
+        "opmerkingen": "Verbeterde veiligheid"
+      },
+      "fotoUrls": []
+    }
+  }
+]
