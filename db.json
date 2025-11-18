@@ -1,5 +1,5 @@
 {
-  "toegewezenRapportages": [
+  "rapportages": [
     { "id": 1, "title": "Inspectie Winkelcentrum Noord", "template": { "SchadeOpnemen": { "Locatie": "", "NieuweSchade": "", "SoortSchade": "", "Datum": "", "AcuteActie": "", "Omschrijving": "" }, "AchterstalligOnderhoud": { "Locatie": "", "SoortOnderhoud": "", "AcuteActie": "", "KostenIndicatie": "" }, "TechnischeInstallaties": { "Locatie": "", "SoortInstallatie": "", "GemeldeStoringen": "", "Testprocedure": "", "Goedgekeurd": "", "Opmerkingen": "" }, "Modificaties": { "Situatie": "", "Locatie": "", "UitgevoerdDoor": "", "Beschrijving": "", "TeOndernemenActie": "", "Opmerkingen": "" }, "FotoUrls": [] } },
     { "id": 2, "title": "Schadeopname Appartement 3B", "template": {} },
     { "id": 3, "title": "Achterstallig Onderhoud Gebouw C", "template": {} },
