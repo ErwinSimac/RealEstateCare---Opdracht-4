@@ -37,346 +37,64 @@
         "FotoUrls": []
       }
     },
-    {
-      "id": 2,
-      "title": "Schadeopname Appartement 3B",
-      "template": { "copyTemplate": true }
-    },
-    {
-      "id": 3,
-      "title": "Achterstallig Onderhoud Gebouw C",
-      "template": { "copyTemplate": true }
-    },
-    {
-      "id": 4,
-      "title": "Technische Installatie Check P1",
-      "template": { "copyTemplate": true }
-    },
-    {
-      "id": 5,
-      "title": "Modificaties Inventarisatie Hal 12",
-      "template": { "copyTemplate": true }
-    },
-    {
-      "id": 6,
-      "title": "Inspectie Kantoorpand Zuid",
-      "template": { "copyTemplate": true }
-    },
-    {
-      "id": 7,
-      "title": "Schadeopname Parkeergarage",
-      "template": { "copyTemplate": true }
-    },
-    {
-      "id": 8,
-      "title": "Onderhoudsrondgang Blok D",
-      "template": { "copyTemplate": true }
-    }
+    { "id": 2, "title": "Schadeopname Appartement 3B", "template": {} },
+    { "id": 3, "title": "Achterstallig Onderhoud Gebouw C", "template": {} },
+    { "id": 4, "title": "Technische Installatie Check P1", "template": {} },
+    { "id": 5, "title": "Modificaties Inventarisatie Hal 12", "template": {} },
+    { "id": 6, "title": "Inspectie Kantoorpand Zuid", "template": {} },
+    { "id": 7, "title": "Schadeopname Parkeergarage", "template": {} },
+    { "id": 8, "title": "Onderhoudsrondgang Blok D", "template": {} }
   ],
 
   "uitgevoerdeRapportages": [
     {
       "id": 101,
-      "title": "Afgeronde Inspectie Winkelcentrum Noord",
-      "template": {
-        "SchadeOpnemen": {
-          "Locatie": "Entreehal",
-          "NieuweSchade": "Nee",
-          "SoortSchade": "Slijtage",
-          "Datum": "2025-01-10",
-          "AcuteActie": "Nee",
-          "Omschrijving": "Slijtage bij deurmechanisme"
-        },
-        "AchterstalligOnderhoud": {
-          "Locatie": "Dak",
-          "SoortOnderhoud": "Leidingwerk",
-          "AcuteActie": "Ja",
-          "KostenIndicatie": "1500+"
-        },
-        "TechnischeInstallaties": {
-          "Locatie": "Technische ruimte",
-          "SoortInstallatie": "Koeling",
-          "GemeldeStoringen": "Temp sensor defect",
-          "Testprocedure": "Herstart + testcyclus",
-          "Goedgekeurd": "Nee",
-          "Opmerkingen": "Monteur noodzakelijk"
-        },
-        "Modificaties": {
-          "Situatie": "Nieuwe kabelgoot aangebracht",
-          "Locatie": "Beheerder kantoor",
-          "UitgevoerdDoor": "Huurder",
-          "Beschrijving": "Extra netwerkvoorziening",
-          "TeOndernemenActie": "LatenKeuren",
-          "Opmerkingen": "Onbekend materiaal"
-        },
-        "FotoUrls": []
-      }
-    },
-    {
-      "id": 102,
-      "title": "Schadeopname Appartement 3B - Afgerond",
-      "template": {
-        "SchadeOpnemen": {
-          "Locatie": "Badkamer",
-          "NieuweSchade": "Ja",
-          "SoortSchade": "Lekkage",
-          "Datum": "2025-01-12",
-          "AcuteActie": "Ja",
-          "Omschrijving": "Lekkende afvoer"
-        },
-        "AchterstalligOnderhoud": {
-          "Locatie": "Trappenhuis",
-          "SoortOnderhoud": "Schilderwerk",
-          "AcuteActie": "Nee",
-          "KostenIndicatie": "500-1500"
-        },
-        "TechnischeInstallaties": {
-          "Locatie": "Meterkast",
-          "SoortInstallatie": "Elektra",
-          "GemeldeStoringen": "Knipperende verlichting",
-          "Testprocedure": "Groep gecontroleerd",
-          "Goedgekeurd": "Ja",
-          "Opmerkingen": "Geen bijzonderheden"
-        },
-        "Modificaties": {
-          "Situatie": "Plafondplaat verwijderd",
-          "Locatie": "Slaapkamer",
-          "UitgevoerdDoor": "Onbekend",
-          "Beschrijving": "Mogelijk eigen aanpassing",
-          "TeOndernemenActie": "LatenVerwijderen",
-          "Opmerkingen": "Veiligheidsrisico"
-        },
-        "FotoUrls": []
-      }
-    },
-
-    {
-      "id": 103,
-      "title": "Achterstallig Onderhoud Gebouw C - Afgerond",
-      "template": {
-        "SchadeOpnemen": {
-          "Locatie": "Geen",
-          "NieuweSchade": "Nee",
-          "SoortSchade": "",
-          "Datum": "",
-          "AcuteActie": "Nee",
-          "Omschrijving": ""
-        },
-        "AchterstalligOnderhoud": {
-          "Locatie": "Fietsenstalling",
-          "SoortOnderhoud": "Houtrot",
-          "AcuteActie": "Ja",
-          "KostenIndicatie": "1500+"
-        },
-        "TechnischeInstallaties": {
-          "Locatie": "",
-          "SoortInstallatie": "",
-          "GemeldeStoringen": "",
-          "Testprocedure": "",
-          "Goedgekeurd": "",
-          "Opmerkingen": ""
-        },
-        "Modificaties": {
-          "Situatie": "",
-          "Locatie": "",
-          "UitgevoerdDoor": "",
-          "Beschrijving": "",
-          "TeOndernemenActie": "",
-          "Opmerkingen": ""
-        },
-        "FotoUrls": []
-      }
-    },
-
-    {
-      "id": 104,
-      "title": "Technische Installatie Check P1 - Afgerond",
-      "template": {
-        "SchadeOpnemen": {
-          "Locatie": "",
-          "NieuweSchade": "",
-          "SoortSchade": "",
-          "Datum": "",
-          "AcuteActie": "",
-          "Omschrijving": ""
-        },
-        "AchterstalligOnderhoud": {
-          "Locatie": "",
-          "SoortOnderhoud": "",
-          "AcuteActie": "",
-          "KostenIndicatie": ""
-        },
-        "TechnischeInstallaties": {
-          "Locatie": "P1 schakelkast",
-          "SoortInstallatie": "Beveiliging",
-          "GemeldeStoringen": "Camera 4 offline",
-          "Testprocedure": "Herstart netwerk",
-          "Goedgekeurd": "Nee",
-          "Opmerkingen": "Onderzoek nodig"
-        },
-        "Modificaties": {
-          "Situatie": "",
-          "Locatie": "",
-          "UitgevoerdDoor": "",
-          "Beschrijving": "",
-          "TeOndernemenActie": "",
-          "Opmerkingen": ""
-        },
-        "FotoUrls": []
-      }
-    },
-
-    {
-      "id": 105,
-      "title": "Modificaties Inventarisatie Hal 12 - Afgerond",
-      "template": {
-        "SchadeOpnemen": {
-          "Locatie": "",
-          "NieuweSchade": "Nee",
-          "SoortSchade": "",
-          "Datum": "",
-          "AcuteActie": "",
-          "Omschrijving": ""
-        },
-        "AchterstalligOnderhoud": {
-          "Locatie": "",
-          "SoortOnderhoud": "",
-          "AcuteActie": "",
-          "KostenIndicatie": ""
-        },
-        "TechnischeInstallaties": {
-          "Locatie": "",
-          "SoortInstallatie": "",
-          "GemeldeStoringen": "",
-          "Testprocedure": "",
-          "Goedgekeurd": "",
-          "Opmerkingen": ""
-        },
-        "Modificaties": {
-          "Situatie": "Oude ventilatiekanalen verwijderd",
-          "Locatie": "Werkplaats",
-          "UitgevoerdDoor": "Aannemer",
-          "Beschrijving": "Afvoer naar buiten aangepast",
-          "TeOndernemenActie": "Accepteren",
-          "Opmerkingen": "Werk correct uitgevoerd"
-        },
-        "FotoUrls": []
-      }
-    },
-
-    {
-      "id": 106,
-      "title": "Inspectie Kantoorpand Zuid - Afgerond",
+      "title": "Uitgevoerd – Winkelcentrum Noord",
       "template": {
         "SchadeOpnemen": {
           "Locatie": "Hoofdingang",
-          "NieuweSchade": "Nee",
-          "SoortSchade": "Slijtage",
-          "Datum": "2025-01-03",
-          "AcuteActie": "Nee",
-          "Omschrijving": "Lichte schade aan kozijn"
-        },
-        "AchterstalligOnderhoud": {
-          "Locatie": "Gang 2",
-          "SoortOnderhoud": "Schilderwerk",
-          "AcuteActie": "Nee",
-          "KostenIndicatie": "0-500"
-        },
-        "TechnischeInstallaties": {
-          "Locatie": "Serverruimte",
-          "SoortInstallatie": "Koeling",
-          "GemeldeStoringen": "Temperatuur schommelt",
-          "Testprocedure": "Monitoring 24h",
-          "Goedgekeurd": "Ja",
-          "Opmerkingen": "Waarden binnen norm"
-        },
-        "Modificaties": {
-          "Situatie": "",
-          "Locatie": "",
-          "UitgevoerdDoor": "",
-          "Beschrijving": "",
-          "TeOndernemenActie": "",
-          "Opmerkingen": ""
-        },
-        "FotoUrls": []
-      }
-    },
-
-    {
-      "id": 107,
-      "title": "Schadeopname Parkeergarage - Afgerond",
-      "template": {
-        "SchadeOpnemen": {
-          "Locatie": "Uitrit",
           "NieuweSchade": "Ja",
-          "SoortSchade": "Aanrijding",
-          "Datum": "2025-01-14",
-          "AcuteActie": "Ja",
-          "Omschrijving": "Bumper autoschade tegen muur"
+          "SoortSchade": "Glasbreuk",
+          "Datum": "2025-02-10",
+          "AcuteActie": "Afzetting geplaatst",
+          "Omschrijving": "Grote barst in automatische schuifdeur"
         },
         "AchterstalligOnderhoud": {
-          "Locatie": "Trappenhuis",
-          "SoortOnderhoud": "Elektra",
-          "AcuteActie": "Nee",
-          "KostenIndicatie": "0-500"
+          "Locatie": "Dak A",
+          "SoortOnderhoud": "Lekkage",
+          "AcuteActie": "Noodreparatie uitgevoerd",
+          "KostenIndicatie": "1500"
         },
         "TechnischeInstallaties": {
-          "Locatie": "Ventilatie-unit",
-          "SoortInstallatie": "Luchtverversing",
-          "GemeldeStoringen": "Lawaai",
-          "Testprocedure": "Reiniging + test",
-          "Goedgekeurd": "Ja",
-          "Opmerkingen": "Geluid normaal"
+          "Locatie": "Ketelruimte",
+          "SoortInstallatie": "Warmteketel",
+          "GemeldeStoringen": "Storing E24",
+          "Testprocedure": "Druktest uitgevoerd",
+          "Goedgekeurd": "Nee",
+          "Opmerkingen": "Monteur moet langskomen"
         },
         "Modificaties": {
-          "Situatie": "",
-          "Locatie": "",
-          "UitgevoerdDoor": "",
-          "Beschrijving": "",
-          "TeOndernemenActie": "",
+          "Situatie": "Toevoegen extra brandmelder",
+          "Locatie": "Gang B",
+          "UitgevoerdDoor": "TechCo",
+          "Beschrijving": "Extra melder geplaatst i.v.m. regelgeving",
+          "TeOndernemenActie": "Registratie in logboek",
           "Opmerkingen": ""
         },
-        "FotoUrls": []
+        "FotoUrls": [
+          "https://via.placeholder.com/200x200?text=Foto+1"
+        ]
       }
     },
 
-    {
-      "id": 108,
-      "title": "Onderhoudsrondgang Blok D - Afgerond",
-      "template": {
-        "SchadeOpnemen": {
-          "Locatie": "",
-          "NieuweSchade": "Nee",
-          "SoortSchade": "",
-          "Datum": "",
-          "AcuteActie": "Nee",
-          "Omschrijving": ""
-        },
-        "AchterstalligOnderhoud": {
-          "Locatie": "Berging",
-          "SoortOnderhoud": "Leidingwerk",
-          "AcuteActie": "Nee",
-          "KostenIndicatie": "0-500"
-        },
-        "TechnischeInstallaties": {
-          "Locatie": "",
-          "SoortInstallatie": "",
-          "GemeldeStoringen": "",
-          "Testprocedure": "",
-          "Goedgekeurd": "",
-          "Opmerkingen": ""
-        },
-        "Modificaties": {
-          "Situatie": "",
-          "Locatie": "",
-          "UitgevoerdDoor": "",
-          "Beschrijving": "",
-          "TeOndernemenActie": "",
-          "Opmerkingen": ""
-        },
-        "FotoUrls": []
-      }
-    }
+    { "id": 102, "title": "Uitgevoerd – Appartement 3B", "template": { "SchadeOpnemen": { "Locatie": "Badkamer", "NieuweSchade": "Nee", "SoortSchade": "Vochtschimmel", "Datum": "2025-01-18", "AcuteActie": "Ventilatie gecontroleerd", "Omschrijving": "Lichte schimmelvorming aangetroffen" }, "AchterstalligOnderhoud": { "Locatie": "Kozijnen", "SoortOnderhoud": "Schilderwerk", "AcuteActie": "Geen", "KostenIndicatie": "600" }, "TechnischeInstallaties": { "Locatie": "Meterkast", "SoortInstallatie": "Elektrisch", "GemeldeStoringen": "Geen", "Testprocedure": "Stopcontact test ok", "Goedgekeurd": "Ja", "Opmerkingen": "" }, "Modificaties": { "Situatie": "Nieuwe thermostaat geplaatst", "Locatie": "Woonkamer", "UitgevoerdDoor": "Installatiebedrijf", "Beschrijving": "Slimme thermostaat", "TeOndernemenActie": "Handleiding toevoegen", "Opmerkingen": "" }, "FotoUrls": [] } },
+
+    { "id": 103, "title": "Uitgevoerd – Gebouw C", "template": { ... } },
+    { "id": 104, "title": "Uitgevoerd – P1 Check", "template": { ... } },
+    { "id": 105, "title": "Uitgevoerd – Hal 12", "template": { ... } },
+    { "id": 106, "title": "Uitgevoerd – Kantoorpand Zuid", "template": { ... } },
+    { "id": 107, "title": "Uitgevoerd – Parkeergarage", "template": { ... } },
+    { "id": 108, "title": "Uitgevoerd – Blok D", "template": { ... } }
   ],
 
   "template": {
