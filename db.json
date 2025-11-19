@@ -41,37 +41,8 @@
       "id": 2,
       "title": "Schadeopname Appartement 3B",
       "template": {}
-    },
-    {
-      "id": 3,
-      "title": "Achterstallig Onderhoud Gebouw C",
-      "template": {}
-    },
-    {
-      "id": 4,
-      "title": "Technische Installatie Check P1",
-      "template": {}
-    },
-    {
-      "id": 5,
-      "title": "Modificaties Inventarisatie Hal 12",
-      "template": {}
-    },
-    {
-      "id": 6,
-      "title": "Inspectie Kantoorpand Zuid",
-      "template": {}
-    },
-    {
-      "id": 7,
-      "title": "Schadeopname Parkeergarage",
-      "template": {}
-    },
-    {
-      "id": 8,
-      "title": "Onderhoudsrondgang Blok D",
-      "template": {}
     }
+    // etc.
   ],
 
   "template": {
@@ -106,10 +77,8 @@
       "Opmerkingen": ""
     },
     "FotoUrls": []
-  }
-}
+  },
 
-{
   "instellingen": {
     "id": 1,
     "naam": "Erwin de Rooij",
