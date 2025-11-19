@@ -29,7 +29,7 @@
         "AchterstalligOnderhoud": { "Locatie": "Parkeerterrein", "SoortOnderhoud": "elektra", "AcuteActie": "Ja", "KostenIndicatie": "0-500" },
         "TechnischeInstallaties": { "Locatie": "Lift 3", "SoortInstallatie": "elektra", "GemeldeStoringen": "Trage werking", "Testprocedure": "Dagelijks testen", "Goedgekeurd": "Ja", "Opmerkingen": "Volgende inspectie in januari" },
         "Modificaties": { "Situatie": "Nieuwe vitrinekast", "Locatie": "Entree", "UitgevoerdDoor": "Huurder", "Beschrijving": "Vervangen oude kast", "TeOndernemenActie": "Accepteren", "Opmerkingen": "" },
-        "FotoUrls": [ "https://via.placeholder.com/150", "https://via.placeholder.com/150" ]
+        "FotoUrls": [ "https://via.placeholder.com/150" ]
       }
     },
     {
