@@ -41,8 +41,37 @@
       "id": 2,
       "title": "Schadeopname Appartement 3B",
       "template": {}
+    },
+    {
+      "id": 3,
+      "title": "Achterstallig Onderhoud Gebouw C",
+      "template": {}
+    },
+    {
+      "id": 4,
+      "title": "Technische Installatie Check P1",
+      "template": {}
+    },
+    {
+      "id": 5,
+      "title": "Modificaties Inventarisatie Hal 12",
+      "template": {}
+    },
+    {
+      "id": 6,
+      "title": "Inspectie Kantoorpand Zuid",
+      "template": {}
+    },
+    {
+      "id": 7,
+      "title": "Schadeopname Parkeergarage",
+      "template": {}
+    },
+    {
+      "id": 8,
+      "title": "Onderhoudsrondgang Blok D",
+      "template": {}
     }
-    // etc.
   ],
 
   "template": {
@@ -79,16 +108,16 @@
     "FotoUrls": []
   },
 
-  "instellingen": {
-  "id": 1,
-  "naam": "Erwin de Rooij",
-  "email": "Erwin@example.com",
-  "Telefoonnummer": "061234567890",
-  "Woonplaats": "België",
-  "Adres": "Hierwoonik 9",
-  "thema": "licht",
-  "meldingen": true,
-  "geluid": false,
-  "avatar": "https://i.pravatar.cc/150?img=3"
+"instellingen": {
+    "id": 1,
+    "naam": "Erwin de Rooij",
+    "email": "Erwin@example.com",
+    "Telefoonnummer": "061234567890",
+    "Woonplaats": "België",
+    "Adres": "Hierwoonik 9",
+    "thema": "licht",
+    "meldingen": true,
+    "geluid": false,
+    "avatar": "https://i.pravatar.cc/150?img=3"
   }
 }
