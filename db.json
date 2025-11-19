@@ -36,10 +36,10 @@
       "id": 102,
       "title": "Inspectie kantoorpand noord - uitgevoerd",
       "template": {
-        "SchadeOpnemen": { "Locatie": "Lobby", "NieuweSchade": "Nee", "SoortSchade": "", "Datum": "2025-11-18", "AcuteActie": "", "Omschrijving": "" },
-        "AchterstalligOnderhoud": { "Locatie": "Toiletten", "SoortOnderhoud": "Kraan", "AcuteActie": "Vervangen", "KostenIndicatie": "€50" },
+        "SchadeOpnemen": { "Locatie": "Lobby", "NieuweSchade": "Nee", "SoortSchade": "Slijtage", "Datum": "2025-11-18", "AcuteActie": "Nee", "Omschrijving": "" },
+        "AchterstalligOnderhoud": { "Locatie": "Toiletten", "SoortOnderhoud": "Kraan", "AcuteActie": "Vervangen", "KostenIndicatie": "0-500" },
         "TechnischeInstallaties": { "Locatie": "CV-ketel", "SoortInstallatie": "Verwarming", "GemeldeStoringen": "Koud water", "Testprocedure": "Controle per kamer", "Goedgekeurd": "Ja", "Opmerkingen": "" },
-        "Modificaties": { "Situatie": "Nieuwe deur", "Locatie": "Vergaderruimte", "UitgevoerdDoor": "Technicus B", "Beschrijving": "Deur vervangen", "TeOndernemenActie": "Sloten controleren", "Opmerkingen": "" },
+        "Modificaties": { "Situatie": "Nieuwe deur", "Locatie": "Vergaderruimte", "UitgevoerdDoor": "Aannemer", "Beschrijving": "Deur vervangen", "TeOndernemenActie": "Laten keuren", "Opmerkingen": "" },
         "FotoUrls": [ "https://via.placeholder.com/150" ]
       }
     },
