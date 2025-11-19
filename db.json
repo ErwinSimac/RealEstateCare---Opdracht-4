@@ -26,7 +26,7 @@
       "title": "Inspectie winkelcentrum noord - uitgevoerd",
       "template": {
         "SchadeOpnemen": { "Locatie": "Hoofdingang", "NieuweSchade": "Ja", "SoortSchade": "Moedwillig", "Datum": "2025-11-19", "AcuteActie": "Nee", "Omschrijving": "Kras in deurpaneel" },
-        "AchterstalligOnderhoud": { "Locatie": "Parkeerterrein", "SoortOnderhoud": "elektra", "AcuteActie": "Ja", "KostenIndicatie": "0-500" },
+        "AchterstalligOnderhoud": { "Locatie": "Parkeerterrein", "SoortOnderhoud": "Elektra", "AcuteActie": "Ja", "KostenIndicatie": "0-500" },
         "TechnischeInstallaties": { "Locatie": "Lift 3", "SoortInstallatie": "elektra", "GemeldeStoringen": "Trage werking", "Testprocedure": "Dagelijks testen", "Goedgekeurd": "Ja", "Opmerkingen": "Volgende inspectie in januari" },
         "Modificaties": { "Situatie": "Nieuwe vitrinekast", "Locatie": "Entree", "UitgevoerdDoor": "Huurder", "Beschrijving": "Vervangen oude kast", "TeOndernemenActie": "Accepteren", "Opmerkingen": "" },
         "FotoUrls": [ "https://via.placeholder.com/150" ]
