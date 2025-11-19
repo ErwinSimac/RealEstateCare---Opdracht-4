@@ -110,10 +110,6 @@
 }
 
 {
-  "rapportages": [ ... ],
-
-  "template": { ... },
-
   "instellingen": {
     "id": 1,
     "naam": "Erwin de Rooij",
