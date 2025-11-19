@@ -47,10 +47,10 @@
       "id": 103,
       "title": "Schadeopname fietsenstalling - uitgevoerd",
       "template": {
-        "SchadeOpnemen": { "Locatie": "Ingang", "NieuweSchade": "Vlekken", "SoortSchade": "Vloeistof", "Datum": "2025-11-17", "AcuteActie": "Schoonmaken", "Omschrijving": "Olievlekken op vloer" },
-        "AchterstalligOnderhoud": { "Locatie": "Verlichting", "SoortOnderhoud": "Lamp", "AcuteActie": "Vervangen", "KostenIndicatie": "€40" },
-        "TechnischeInstallaties": { "Locatie": "Camera's", "SoortInstallatie": "Beveiliging", "GemeldeStoringen": "Geen", "Testprocedure": "Controle per week", "Goedgekeurd": "Ja", "Opmerkingen": "" },
-        "Modificaties": { "Situatie": "Nieuwe slagboom", "Locatie": "Uitgang", "UitgevoerdDoor": "Technicus C", "Beschrijving": "Slagboom vervangen", "TeOndernemenActie": "", "Opmerkingen": "" },
+        "SchadeOpnemen": { "Locatie": "Ingang", "NieuweSchade": "Ja", "SoortSchade": "Normaal gebruik", "Datum": "2025-11-17", "AcuteActie": "Nee", "Omschrijving": "Olievlekken op vloer" },
+        "AchterstalligOnderhoud": { "Locatie": "Verlichting ingang", "SoortOnderhoud": "Elektra", "AcuteActie": "Nee", "KostenIndicatie": "0-500" },
+        "TechnischeInstallaties": { "Locatie": "Camera's ingang", "SoortInstallatie": "Beveiliging", "GemeldeStoringen": "Geen", "Testprocedure": "Controle per week", "Goedgekeurd": "Ja", "Opmerkingen": "" },
+        "Modificaties": { "Situatie": "Nieuwe slagboom P1", "Locatie": "Uitgang", "UitgevoerdDoor": "Onbekend", "Beschrijving": "Slagboom vervangen", "TeOndernemenActie": "Laten aanpassen en keuren", "Opmerkingen": "" },
         "FotoUrls": [ "https://via.placeholder.com/150" ]
       }
     },
