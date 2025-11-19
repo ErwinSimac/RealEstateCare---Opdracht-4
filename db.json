@@ -108,3 +108,20 @@
     "FotoUrls": []
   }
 }
+
+{
+  "rapportages": [ ... ],
+
+  "template": { ... },
+
+  "instellingen": {
+    "id": 1,
+    "naam": "Inspecteur Jansen",
+    "email": "inspecteur@example.com",
+    "thema": "licht",
+    "meldingen": true,
+    "geluid": false,
+    "avatar": "https://i.pravatar.cc/150?img=3"
+  }
+}
+
