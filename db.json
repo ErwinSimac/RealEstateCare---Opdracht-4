@@ -2,7 +2,7 @@
   "rapportages": [
     {
       "id": 1,
-      "title": "Inspectie winkelcentrum Noord",
+      "title": "Inspectie winkelcentrum noord",
       "template": {
         "SchadeOpnemen": { "Locatie": "", "NieuweSchade": "", "SoortSchade": "", "Datum": "", "AcuteActie": "", "Omschrijving": "" },
         "AchterstalligOnderhoud": { "Locatie": "", "SoortOnderhoud": "", "AcuteActie": "", "KostenIndicatie": "" },
