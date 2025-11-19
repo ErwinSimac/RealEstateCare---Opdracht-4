@@ -2,7 +2,7 @@
   "rapportages": [
     {
       "id": 1,
-      "title": "Inspectie Winkelcentrum Noord",
+      "title": "Inspectie winkelcentrum Noord",
       "template": {
         "SchadeOpnemen": { "Locatie": "", "NieuweSchade": "", "SoortSchade": "", "Datum": "", "AcuteActie": "", "Omschrijving": "" },
         "AchterstalligOnderhoud": { "Locatie": "", "SoortOnderhoud": "", "AcuteActie": "", "KostenIndicatie": "" },
@@ -11,19 +11,19 @@
         "FotoUrls": []
       }
     },
-    { "id": 2, "title": "Schadeopname Appartement 3B", "template": {} },
-    { "id": 3, "title": "Achterstallig Onderhoud Gebouw C", "template": {} },
-    { "id": 4, "title": "Technische Installatie Check P1", "template": {} },
-    { "id": 5, "title": "Modificaties Inventarisatie Hal 12", "template": {} },
-    { "id": 6, "title": "Inspectie Kantoorpand Zuid", "template": {} },
-    { "id": 7, "title": "Schadeopname Parkeergarage", "template": {} },
-    { "id": 8, "title": "Onderhoudsrondgang Blok D", "template": {} }
+    { "id": 2, "title": "Schadeopname appartement 3B", "template": {} },
+    { "id": 3, "title": "Achterstallig onderhoud gebouw C", "template": {} },
+    { "id": 4, "title": "Technische installatie check P1", "template": {} },
+    { "id": 5, "title": "Modificaties inventarisatie hal 12", "template": {} },
+    { "id": 6, "title": "Inspectie kantoorpand zuid", "template": {} },
+    { "id": 7, "title": "Schadeopname parkeergarage", "template": {} },
+    { "id": 8, "title": "Onderhoudsrondgang blok D", "template": {} }
   ],
 
   "uitgevoerdeRapportages": [
     {
       "id": 101,
-      "title": "Inspectie Winkelcentrum Noord - Uitgevoerd",
+      "title": "Inspectie winkelcentrum noord - uitgevoerd",
       "template": {
         "SchadeOpnemen": { "Locatie": "Hoofdingang", "NieuweSchade": "Kleine kras", "SoortSchade": "Mechanisch", "Datum": "2025-11-19", "AcuteActie": "Repareren", "Omschrijving": "Kras in deurpaneel" },
         "AchterstalligOnderhoud": { "Locatie": "Parkeerterrein", "SoortOnderhoud": "Verlichting", "AcuteActie": "Vervangen lampen", "KostenIndicatie": "€120" },
@@ -34,7 +34,7 @@
     },
     {
       "id": 102,
-      "title": "Inspectie Kantoorpand Zuid - Uitgevoerd",
+      "title": "Inspectie kantoorpand noord - uitgevoerd",
       "template": {
         "SchadeOpnemen": { "Locatie": "Lobby", "NieuweSchade": "Geen", "SoortSchade": "", "Datum": "2025-11-18", "AcuteActie": "", "Omschrijving": "" },
         "AchterstalligOnderhoud": { "Locatie": "Toiletten", "SoortOnderhoud": "Kraan", "AcuteActie": "Vervangen", "KostenIndicatie": "€50" },
@@ -45,7 +45,7 @@
     },
     {
       "id": 103,
-      "title": "Schadeopname Parkeergarage - Uitgevoerd",
+      "title": "Schadeopname fietsenstalling - uitgevoerd",
       "template": {
         "SchadeOpnemen": { "Locatie": "Ingang", "NieuweSchade": "Vlekken", "SoortSchade": "Vloeistof", "Datum": "2025-11-17", "AcuteActie": "Schoonmaken", "Omschrijving": "Olievlekken op vloer" },
         "AchterstalligOnderhoud": { "Locatie": "Verlichting", "SoortOnderhoud": "Lamp", "AcuteActie": "Vervangen", "KostenIndicatie": "€40" },
@@ -56,7 +56,7 @@
     },
     {
       "id": 104,
-      "title": "Achterstallig Onderhoud Gebouw C - Uitgevoerd",
+      "title": "Achterstallig onderhoud gebouw F - uitgevoerd",
       "template": {
         "SchadeOpnemen": { "Locatie": "", "NieuweSchade": "", "SoortSchade": "", "Datum": "2025-11-16", "AcuteActie": "", "Omschrijving": "" },
         "AchterstalligOnderhoud": { "Locatie": "Daken", "SoortOnderhoud": "Dakbedekking", "AcuteActie": "Repareren", "KostenIndicatie": "€500" },
@@ -67,7 +67,7 @@
     },
     {
       "id": 105,
-      "title": "Modificaties Inventarisatie Hal 12 - Uitgevoerd",
+      "title": "Modificaties inventarisatie hal 1 - uitgevoerd",
       "template": {
         "SchadeOpnemen": { "Locatie": "Hal 12", "NieuweSchade": "", "SoortSchade": "", "Datum": "2025-11-15", "AcuteActie": "", "Omschrijving": "" },
         "AchterstalligOnderhoud": { "Locatie": "Hal 12", "SoortOnderhoud": "Vloer", "AcuteActie": "Schuren", "KostenIndicatie": "€200" },
@@ -78,7 +78,7 @@
     },
     {
       "id": 106,
-      "title": "Technische Installatie Check P1 - Uitgevoerd",
+      "title": "Technische installatie 6 - uitgevoerd",
       "template": {
         "SchadeOpnemen": { "Locatie": "P1", "NieuweSchade": "", "SoortSchade": "", "Datum": "2025-11-14", "AcuteActie": "", "Omschrijving": "" },
         "AchterstalligOnderhoud": { "Locatie": "P1", "SoortOnderhoud": "CV-ketel", "AcuteActie": "Controle", "KostenIndicatie": "€100" },
@@ -89,7 +89,7 @@
     },
     {
       "id": 107,
-      "title": "Schadeopname Appartement 3B - Uitgevoerd",
+      "title": "Schadeopname appartement 3B - uitgevoerd",
       "template": {
         "SchadeOpnemen": { "Locatie": "Appartement 3B", "NieuweSchade": "Barst raam", "SoortSchade": "Glas", "Datum": "2025-11-13", "AcuteActie": "Vervangen", "Omschrijving": "Barst in slaapkamerraam" },
         "AchterstalligOnderhoud": { "Locatie": "Keuken", "SoortOnderhoud": "Kraan", "AcuteActie": "Vervangen", "KostenIndicatie": "€80" },
@@ -100,7 +100,7 @@
     },
     {
       "id": 108,
-      "title": "Onderhoudsrondgang Blok D - Uitgevoerd",
+      "title": "Onderhoudsrondgang blok G - uitgevoerd",
       "template": {
         "SchadeOpnemen": { "Locatie": "Blok D", "NieuweSchade": "", "SoortSchade": "", "Datum": "2025-11-12", "AcuteActie": "", "Omschrijving": "" },
         "AchterstalligOnderhoud": { "Locatie": "Blok D", "SoortOnderhoud": "Dak", "AcuteActie": "Repareren", "KostenIndicatie": "€300" },
