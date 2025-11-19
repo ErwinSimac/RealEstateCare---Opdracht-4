@@ -80,15 +80,15 @@
   },
 
   "instellingen": {
-    "id": 1,
-    "naam": "Erwin de Rooij",
-    "email": "Erwin@example.com",
-    "Telefoonnummer": "061234567890",
-    "Woonplaats": "België",
-    "Adres": "Hierwoonik 9",
-    "thema": "licht",
-    "meldingen": true,
-    "geluid": false,
-    "avatar": "https://i.pravatar.cc/150?img=3"
+  "id": 1,
+  "naam": "Erwin de Rooij",
+  "email": "Erwin@example.com",
+  "Telefoonnummer": "061234567890",
+  "Woonplaats": "België",
+  "Adres": "Hierwoonik 9",
+  "thema": "licht",
+  "meldingen": true,
+  "geluid": false,
+  "avatar": "https://i.pravatar.cc/150?img=3"
   }
 }
