@@ -58,10 +58,10 @@
       "id": 104,
       "title": "Achterstallig onderhoud gebouw F - uitgevoerd",
       "template": {
-        "SchadeOpnemen": { "Locatie": "", "NieuweSchade": "", "SoortSchade": "", "Datum": "2025-11-16", "AcuteActie": "", "Omschrijving": "" },
-        "AchterstalligOnderhoud": { "Locatie": "Daken", "SoortOnderhoud": "Dakbedekking", "AcuteActie": "Repareren", "KostenIndicatie": "€500" },
-        "TechnischeInstallaties": { "Locatie": "Airco", "SoortInstallatie": "Koeling", "GemeldeStoringen": "Lek", "Testprocedure": "Controle per verdieping", "Goedgekeurd": "Ja", "Opmerkingen": "" },
-        "Modificaties": { "Situatie": "Nieuwe kozijnen", "Locatie": "Kantoren", "UitgevoerdDoor": "Technicus D", "Beschrijving": "Vervangen oude kozijnen", "TeOndernemenActie": "Schilderen", "Opmerkingen": "" },
+        "SchadeOpnemen": { "Locatie": "Gebouw F", "NieuweSchade": "Nee", "SoortSchade": "Anders", "Datum": "2025-11-16", "AcuteActie": "Nee", "Omschrijving": "Dakgoot zit vol of defect" },
+        "AchterstalligOnderhoud": { "Locatie": "Daken", "SoortOnderhoud": "Houtrot", "AcuteActie": "Ja", "KostenIndicatie": "500-1500" },
+        "TechnischeInstallaties": { "Locatie": "Airco boardroom", "SoortInstallatie": "Koeling", "GemeldeStoringen": "Lek", "Testprocedure": "Controle per verdieping", "Goedgekeurd": "Nee", "Opmerkingen": "Airco is defect" },
+        "Modificaties": { "Situatie": "Nieuwe kozijnen", "Locatie": "Gebouw F", "UitgevoerdDoor": "Aannemer", "Beschrijving": "Vervangen oude kozijnen", "TeOndernemenActie": "Schilderen", "Opmerkingen": "Graag wit zoals de rest schilderen" },
         "FotoUrls": [ "https://via.placeholder.com/150" ]
       }
     },
