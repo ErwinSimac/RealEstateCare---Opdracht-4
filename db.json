@@ -91,10 +91,10 @@
       "id": 107,
       "title": "Schadeopname appartement 3B - uitgevoerd",
       "template": {
-        "SchadeOpnemen": { "Locatie": "Appartement 3B", "NieuweSchade": "Barst raam", "SoortSchade": "Glas", "Datum": "2025-11-13", "AcuteActie": "Vervangen", "Omschrijving": "Barst in slaapkamerraam" },
-        "AchterstalligOnderhoud": { "Locatie": "Keuken", "SoortOnderhoud": "Kraan", "AcuteActie": "Vervangen", "KostenIndicatie": "€80" },
-        "TechnischeInstallaties": { "Locatie": "CV-ketel", "SoortInstallatie": "Verwarming", "GemeldeStoringen": "Geen", "Testprocedure": "Maandelijks testen", "Goedgekeurd": "Ja", "Opmerkingen": "" },
-        "Modificaties": { "Situatie": "Nieuwe kast", "Locatie": "Keuken", "UitgevoerdDoor": "Technicus G", "Beschrijving": "Kast geplaatst", "TeOndernemenActie": "", "Opmerkingen": "" },
+        "SchadeOpnemen": { "Locatie": "Appartement 3B", "NieuweSchade": "Barst raam", "SoortSchade": "Normaal gebruik", "Datum": "2025-11-13", "AcuteActie": "Nee", "Omschrijving": "Barst in slaapkamerraam" },
+        "AchterstalligOnderhoud": { "Locatie": "Keuken", "SoortOnderhoud": "beglazing", "AcuteActie": "Ja", "KostenIndicatie": "1500+" },
+        "TechnischeInstallaties": { "Locatie": "Airco", "SoortInstallatie": "Koeling", "GemeldeStoringen": "Error 403", "Testprocedure": "Geen", "Goedgekeurd": "Ja", "Opmerkingen": "Airco is gemaakt" },
+        "Modificaties": { "Situatie": "Nieuwe kast", "Locatie": "Keuken", "UitgevoerdDoor": "Huurder", "Beschrijving": "Kast geplaatst", "TeOndernemenActie": "Laten verwijderen", "Opmerkingen": "Gaat om een witte kast" },
         "FotoUrls": [ "https://via.placeholder.com/150" ]
       }
     },
@@ -102,10 +102,10 @@
       "id": 108,
       "title": "Onderhoudsrondgang blok G - uitgevoerd",
       "template": {
-        "SchadeOpnemen": { "Locatie": "Blok D", "NieuweSchade": "", "SoortSchade": "", "Datum": "2025-11-12", "AcuteActie": "", "Omschrijving": "" },
-        "AchterstalligOnderhoud": { "Locatie": "Blok D", "SoortOnderhoud": "Dak", "AcuteActie": "Repareren", "KostenIndicatie": "€300" },
-        "TechnischeInstallaties": { "Locatie": "Blok D", "SoortInstallatie": "Verwarming", "GemeldeStoringen": "Geen", "Testprocedure": "Dagelijks testen", "Goedgekeurd": "Ja", "Opmerkingen": "" },
-        "Modificaties": { "Situatie": "Nieuwe verlichting", "Locatie": "Blok D", "UitgevoerdDoor": "Technicus H", "Beschrijving": "Lamp vervangen", "TeOndernemenActie": "", "Opmerkingen": "" },
+        "SchadeOpnemen": { "Locatie": "Blok G", "NieuweSchade": "Nee", "SoortSchade": "Moedwillig", "Datum": "2025-11-12", "AcuteActie": "Nee", "Omschrijving": "Onbekend wat er precies defect is" },
+        "AchterstalligOnderhoud": { "Locatie": "Blok G", "SoortOnderhoud": "Houtrot", "AcuteActie": "Ja", "KostenIndicatie": "1500+" },
+        "TechnischeInstallaties": { "Locatie": "Blok G", "SoortInstallatie": "Beveiliging", "GemeldeStoringen": "Geen", "Testprocedure": "Testen is niet nodig", "Goedgekeurd": "Ja", "Opmerkingen": "Camera is vervangen" },
+        "Modificaties": { "Situatie": "Nieuwe verlichting", "Locatie": "Blok G", "UitgevoerdDoor": "Onbekend", "Beschrijving": "Lamp vervangen", "TeOndernemenActie": "Accepteren", "Opmerkingen": "" },
         "FotoUrls": [ "https://via.placeholder.com/150" ]
       }
     }
