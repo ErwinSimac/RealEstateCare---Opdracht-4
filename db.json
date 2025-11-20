@@ -111,6 +111,33 @@
     }
   ],
 
+  "documentatie": [
+    {
+      "id": 1,
+      "naam": "Inspecties uitleg",
+      "type": "PDF",
+      "url": "https://via.placeholder.com/150/0000FF/FFFFFF?text=Inspecties+uitleg"
+    },
+    {
+      "id": 2,
+      "naam": "Normbladen",
+      "type": "PDF",
+      "url": "https://via.placeholder.com/150/FF0000/FFFFFF?text=Normbladen"
+    },
+    {
+      "id": 3,
+      "naam": "Testprocedures",
+      "type": "PDF",
+      "url": "https://via.placeholder.com/150/00FF00/FFFFFF?text=Testprocedures"
+    },
+    {
+      "id": 4,
+      "naam": "Lamp vervangen klant Jumbo",
+      "type": "PDF",
+      "url": "https://via.placeholder.com/150/FFFF00/000000?text=Lamp+vervangen+Jumbo"
+    }
+  ],
+
   "template": {
     "SchadeOpnemen": { "Locatie": "", "NieuweSchade": "", "SoortSchade": "", "Datum": "", "AcuteActie": "", "Omschrijving": "" },
     "AchterstalligOnderhoud": { "Locatie": "", "SoortOnderhoud": "", "AcuteActie": "", "KostenIndicatie": "" },
