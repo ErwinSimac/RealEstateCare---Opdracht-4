@@ -67,23 +67,23 @@
     },
     {
       "id": 105,
-      "title": "Modificaties inventarisatie hal 1 - uitgevoerd",
+      "title": "Inventarisatie hal 1 - uitgevoerd",
       "template": {
-        "SchadeOpnemen": { "Locatie": "Hal 12", "NieuweSchade": "", "SoortSchade": "", "Datum": "2025-11-15", "AcuteActie": "", "Omschrijving": "" },
-        "AchterstalligOnderhoud": { "Locatie": "Hal 12", "SoortOnderhoud": "Vloer", "AcuteActie": "Schuren", "KostenIndicatie": "€200" },
-        "TechnischeInstallaties": { "Locatie": "Lichtinstallatie", "SoortInstallatie": "Verlichting", "GemeldeStoringen": "Geen", "Testprocedure": "Dagelijks testen", "Goedgekeurd": "Ja", "Opmerkingen": "" },
-        "Modificaties": { "Situatie": "Nieuwe bewegwijzering", "Locatie": "Hal 12", "UitgevoerdDoor": "Technicus E", "Beschrijving": "Borden geplaatst", "TeOndernemenActie": "", "Opmerkingen": "" },
+        "SchadeOpnemen": { "Locatie": "Hal 1", "NieuweSchade": "Ja", "SoortSchade": "Anders", "Datum": "2025-11-15", "AcuteActie": "Ja", "Omschrijving": "Tegels kapot" },
+        "AchterstalligOnderhoud": { "Locatie": "Hal 12", "SoortOnderhoud": "Schilderwerk", "AcuteActie": "Ja", "KostenIndicatie": "1500+" },
+        "TechnischeInstallaties": { "Locatie": "Lichtinstallatie hal 4", "SoortInstallatie": "Elektra", "GemeldeStoringen": "Geen", "Testprocedure": "Dagelijks testen", "Goedgekeurd": "Ja", "Opmerkingen": "Lamp is gemaakt" },
+        "Modificaties": { "Situatie": "Nieuwe bewegwijzering", "Locatie": "Hal 12", "UitgevoerdDoor": "Onbekend", "Beschrijving": "Borden geplaatst", "TeOndernemenActie": "Laten keuren,", "Opmerkingen": "Graag controleren of de borden kloppen" },
         "FotoUrls": [ "https://via.placeholder.com/150" ]
       }
     },
     {
       "id": 106,
-      "title": "Technische installatie 6 - uitgevoerd",
+      "title": "Parkeerplaatst Jumbo - uitgevoerd",
       "template": {
-        "SchadeOpnemen": { "Locatie": "P1", "NieuweSchade": "", "SoortSchade": "", "Datum": "2025-11-14", "AcuteActie": "", "Omschrijving": "" },
-        "AchterstalligOnderhoud": { "Locatie": "P1", "SoortOnderhoud": "CV-ketel", "AcuteActie": "Controle", "KostenIndicatie": "€100" },
-        "TechnischeInstallaties": { "Locatie": "Generator", "SoortInstallatie": "Stroom", "GemeldeStoringen": "Geen", "Testprocedure": "Dagelijks testen", "Goedgekeurd": "Ja", "Opmerkingen": "" },
-        "Modificaties": { "Situatie": "Nieuwe schakelkast", "Locatie": "P1", "UitgevoerdDoor": "Technicus F", "Beschrijving": "Installatie vervangen", "TeOndernemenActie": "", "Opmerkingen": "" },
+        "SchadeOpnemen": { "Locatie": "P1", "NieuweSchade": "Nee", "SoortSchade": "Calamiteit", "Datum": "2025-11-14", "AcuteActie": "Ja", "Omschrijving": "Tak van boom is afgebroken, mogelijk meer takken die gaan breken" },
+        "AchterstalligOnderhoud": { "Locatie": "P1", "SoortOnderhoud": "Houtrot", "AcuteActie": "Ja", "KostenIndicatie": "500-1500" },
+        "TechnischeInstallaties": { "Locatie": "Generator", "SoortInstallatie": "elektra", "GemeldeStoringen": "Geen", "Testprocedure": "Dagelijks testen", "Goedgekeurd": "Nee", "Opmerkingen": "Testen tot 2025-11-20" },
+        "Modificaties": { "Situatie": "Nieuwe schakelkast", "Locatie": "P1", "UitgevoerdDoor": "Aannemer", "Beschrijving": "Installatie vervangen", "TeOndernemenActie": "Laten aanpassen en keuren", "Opmerkingen": "Graag keuren" },
         "FotoUrls": [ "https://via.placeholder.com/150" ]
       }
     },
