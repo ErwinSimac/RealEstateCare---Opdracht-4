@@ -67,7 +67,7 @@
     },
     {
       "id": 105,
-      "title": "Inventarisatie hal 1 - uitgevoerd",
+      "title": "Inventarisatie hallen - uitgevoerd",
       "template": {
         "SchadeOpnemen": { "Locatie": "Hal 1", "NieuweSchade": "Ja", "SoortSchade": "Anders", "Datum": "2025-11-15", "AcuteActie": "Ja", "Omschrijving": "Tegels kapot" },
         "AchterstalligOnderhoud": { "Locatie": "Hal 12", "SoortOnderhoud": "Schilderwerk", "AcuteActie": "Ja", "KostenIndicatie": "1500+" },
