@@ -4,7 +4,7 @@
       "id": 1,
       "title": "Inspectie winkelcentrum noord",
       "template": {
-        "Schade opnemen": { "Locatie": "", "NieuweSchade": "", "SoortSchade": "", "Datum": "", "AcuteActie": "", "Omschrijving": "" },
+        "SchadeOpnemen": { "Locatie": "", "NieuweSchade": "", "SoortSchade": "", "Datum": "", "AcuteActie": "", "Omschrijving": "" },
         "AchterstalligOnderhoud": { "Locatie": "", "SoortOnderhoud": "", "AcuteActie": "", "KostenIndicatie": "" },
         "TechnischeInstallaties": { "Locatie": "", "SoortInstallatie": "", "GemeldeStoringen": "", "Testprocedure": "", "Goedgekeurd": "", "Opmerkingen": "" },
         "Modificaties": { "Situatie": "", "Locatie": "", "UitgevoerdDoor": "", "Beschrijving": "", "TeOndernemenActie": "", "Opmerkingen": "" },
