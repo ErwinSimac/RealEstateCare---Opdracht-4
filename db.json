@@ -104,21 +104,21 @@
       "id": 1,
       "naam": "Inspecties uitleg",
       "type": "PDF",
-      "url": "https://via.placeholder.com/150/0000FF/FFFFFF?text=Inspecties+uitleg",
+      "url": "https://documenturlhier.nl/",
       "inhoud": "Hier komt de volledige uitleg over inspecties..."
     },
     {
       "id": 2,
       "naam": "Normbladen",
       "type": "PDF",
-      "url": "https://via.placeholder.com/150/FF0000/FFFFFF?text=Normbladen",
+      "url": "https://documenturlhier.nl/",
       "inhoud": "Hier staan de normbladen die gebruikt worden."
     },
     {
       "id": 3,
       "naam": "Testprocedures",
       "type": "PDF",
-      "url": "https://via.placeholder.com/150/00FF00/FFFFFF?text=Testprocedures",
+      "url": "https://documenturlhier.nl/",
       "inhoud": "Stapsgewijze testprocedures voor technische installaties."
     },
     {
