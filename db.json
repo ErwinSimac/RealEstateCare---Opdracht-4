@@ -28,7 +28,7 @@
         "AchterstalligOnderhoud": { "Locatie": "Parkeerterrein", "SoortOnderhoud": "Elektra", "AcuteActie": "Ja", "KostenIndicatie": "0-500" },
         "TechnischeInstallaties": { "Locatie": "Lift 3", "SoortInstallatie": "Elektra", "GemeldeStoringen": "Trage werking", "Testprocedure": "Dagelijks testen", "Goedgekeurd": "Ja", "Opmerkingen": "Volgende inspectie in januari" },
         "Modificaties": { "Situatie": "Nieuwe vitrinekast", "Locatie": "Entree", "UitgevoerdDoor": "Huurder", "Beschrijving": "Vervangen oude kast", "TeOndernemenActie": "Accepteren", "Opmerkingen": "" },
-        "FotoUrls": [ "https://via.placeholder.com/150" ]
+        "FotoUrls": [ "https://fotourlhier.nl/" ]
       }
     },
     {
@@ -39,7 +39,7 @@
         "AchterstalligOnderhoud": { "Locatie": "Toiletten", "SoortOnderhoud": "Leidingwerk", "AcuteActie": "Ja", "KostenIndicatie": "0-500" },
         "TechnischeInstallaties": { "Locatie": "CV-ketel", "SoortInstallatie": "Verwarming", "GemeldeStoringen": "Koud water", "Testprocedure": "Controle per kamer", "Goedgekeurd": "Ja", "Opmerkingen": "" },
         "Modificaties": { "Situatie": "Nieuwe deur", "Locatie": "Vergaderruimte", "UitgevoerdDoor": "Aannemer", "Beschrijving": "Deur vervangen", "TeOndernemenActie": "Laten keuren", "Opmerkingen": "" },
-        "FotoUrls": [ "https://via.placeholder.com/150" ]
+        "FotoUrls": [ "https://fotourlhier.nl/" ]
       }
     },
     {
@@ -61,7 +61,7 @@
         "AchterstalligOnderhoud": { "Locatie": "Daken", "SoortOnderhoud": "Houtrot", "AcuteActie": "Ja", "KostenIndicatie": "500-1500" },
         "TechnischeInstallaties": { "Locatie": "Airco boardroom", "SoortInstallatie": "Koeling", "GemeldeStoringen": "Lek", "Testprocedure": "Controle per verdieping", "Goedgekeurd": "Nee", "Opmerkingen": "Airco is defect" },
         "Modificaties": { "Situatie": "Nieuwe kozijnen", "Locatie": "Gebouw F", "UitgevoerdDoor": "Aannemer", "Beschrijving": "Vervangen oude kozijnen", "TeOndernemenActie": "Laten aanpassen en keuren", "Opmerkingen": "Graag wit zoals de rest schilderen" },
-        "FotoUrls": [ "https://via.placeholder.com/150" ]
+        "FotoUrls": [ "https://fotourlhier.nl/" ]
       }
     },
     {
@@ -72,7 +72,7 @@
         "AchterstalligOnderhoud": { "Locatie": "Hal 12", "SoortOnderhoud": "Schilderwerk", "AcuteActie": "Ja", "KostenIndicatie": "1500+" },
         "TechnischeInstallaties": { "Locatie": "Lichtinstallatie hal 4", "SoortInstallatie": "Elektra", "GemeldeStoringen": "Geen", "Testprocedure": "Dagelijks testen", "Goedgekeurd": "Ja", "Opmerkingen": "Lamp is gemaakt" },
         "Modificaties": { "Situatie": "Nieuwe bewegwijzering", "Locatie": "Hal 12", "UitgevoerdDoor": "Onbekend", "Beschrijving": "Borden geplaatst", "TeOndernemenActie": "Laten keuren,", "Opmerkingen": "Graag controleren of de borden kloppen" },
-        "FotoUrls": [ "https://via.placeholder.com/150" ]
+        "FotoUrls": [ "https://fotourlhier.nl/" ]
       }
     },
     {
@@ -83,7 +83,7 @@
         "AchterstalligOnderhoud": { "Locatie": "P1", "SoortOnderhoud": "Houtrot", "AcuteActie": "Ja", "KostenIndicatie": "500-1500" },
         "TechnischeInstallaties": { "Locatie": "Generator", "SoortInstallatie": "elektra", "GemeldeStoringen": "Geen", "Testprocedure": "Dagelijks testen", "Goedgekeurd": "Nee", "Opmerkingen": "Testen tot 2025-11-20" },
         "Modificaties": { "Situatie": "Nieuwe schakelkast", "Locatie": "P1", "UitgevoerdDoor": "Aannemer", "Beschrijving": "Installatie vervangen", "TeOndernemenActie": "Laten aanpassen en keuren", "Opmerkingen": "Graag keuren" },
-        "FotoUrls": [ "https://via.placeholder.com/150" ]
+        "FotoUrls": [ "https://fotourlhier.nl/" ]
       }
     },
     {
@@ -94,7 +94,7 @@
         "AchterstalligOnderhoud": { "Locatie": "Keuken", "SoortOnderhoud": "beglazing", "AcuteActie": "Ja", "KostenIndicatie": "1500+" },
         "TechnischeInstallaties": { "Locatie": "Airco", "SoortInstallatie": "Koeling", "GemeldeStoringen": "Error 403", "Testprocedure": "Geen", "Goedgekeurd": "Ja", "Opmerkingen": "Airco is gemaakt" },
         "Modificaties": { "Situatie": "Nieuwe kast", "Locatie": "Keuken", "UitgevoerdDoor": "Huurder", "Beschrijving": "Kast geplaatst", "TeOndernemenActie": "Laten verwijderen", "Opmerkingen": "Gaat om een witte kast" },
-        "FotoUrls": [ "https://via.placeholder.com/150" ]
+        "FotoUrls": [ "https://fotourlhier.nl/" ]
       }
     }
   ],
