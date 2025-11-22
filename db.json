@@ -131,10 +131,10 @@
   ],
 
   "template": {
-    "SchadeOpnemen": { "Locatie": "", "NieuweSchade": "", "SoortSchade": "", "Datum": "", "AcuteActie": "", "Omschrijving": "" },
-    "AchterstalligOnderhoud": { "Locatie": "", "SoortOnderhoud": "", "AcuteActie": "", "KostenIndicatie": "" },
-    "TechnischeInstallaties": { "Locatie": "", "SoortInstallatie": "", "GemeldeStoringen": "", "Testprocedure": "", "Goedgekeurd": "", "Opmerkingen": "" },
-    "Modificaties": { "Situatie": "", "Locatie": "", "UitgevoerdDoor": "", "Beschrijving": "", "TeOndernemenActie": "", "Opmerkingen": "" },
+    "Schade opnemen": { "Locatie": "", "Nieuwe schade": "", "Soort schade": "", "Datum": "", "Acute actie vereist": "", "Omschrijving": "" },
+    "Achterstallig onderhoud": { "Locatie": "", "Soort onderhoud": "", "Acute actie vereist": "", "Kosten indicatie": "" },
+    "Technische installaties": { "Locatie": "", "Soort installatie": "", "Gemelde storingen": "", "Testprocedure": "", "Goedgekeurd": "", "Opmerkingen": "" },
+    "Modificaties": { "Situatie": "", "Locatie": "", "Uitgevoerd door": "", "Beschrijving": "", "Te ondernemen actie": "", "Opmerkingen": "" },
     "FotoUrls": []
   },
 
